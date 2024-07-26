@@ -21,9 +21,10 @@ jobs:
       - name: Update calendar file
         shell: pwsh
         run: |
+          $TimeZone = [System.TimeZoneInfo]::FindSystemTimeZoneById('Europe/Amsterdam')          
           Get-BbcTvGuide -Channel bbc-first
-          | Where-Object { $_.EndLocal.Hour -ge 19 } 
-          | Where-Object { $_.StartLocal.Hour -le 23 }
+          | Where-Object { ([System.TimeZoneInfo]::ConvertTimeFromUtc($_.StartUtc, $TimeZone)).Hour -ge 19 }    
+          | Where-Object { ([System.TimeZoneInfo]::ConvertTimeFromUtc($_.EndUtc, $TimeZone)).Hour -le 23 }
           | ForEach-Object { New-CalendarEvent -Start ($_.StartUtc) -End ($_.EndUtc) -Summary "BBC First: $($_.FullTitle)" -Description ($_.FullSynopsis) }
           | Export-Calendar -Name 'BBC First TV Guide' -Path ./bbc-first.ics
 
