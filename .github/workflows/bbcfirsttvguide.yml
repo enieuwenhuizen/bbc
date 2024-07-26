@@ -22,6 +22,8 @@ jobs:
         shell: pwsh
         run: |
           Get-BbcTvGuide -Channel bbc-first
+          | Where-Object { $_.EndLocal.Hour -ge 19 } 
+          | Where-Object { $_.StartLocal.Hour -le 23 }
           | ForEach-Object { New-CalendarEvent -Start ($_.StartUtc) -End ($_.EndUtc) -Summary "BBC First: $($_.FullTitle)" -Description ($_.FullSynopsis) }
           | Export-Calendar -Name 'BBC First TV Guide' -Path ./bbc-first.ics
 
