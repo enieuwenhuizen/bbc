@@ -26,7 +26,7 @@ jobs:
           Get-BbcTvGuide -Channel bbc-first
           | ForEach-Object { $_ | Add-Member -NotePropertyName StartAmsterdam -NotePropertyValue ([System.TimeZoneInfo]::ConvertTimeFromUtc($_.StartUtc, $TimeZone)) -PassThru }
           | ForEach-Object { $_ | Add-Member -NotePropertyName EndAmsterdam -NotePropertyValue ([System.TimeZoneInfo]::ConvertTimeFromUtc($_.EndUtc, $TimeZone)) -PassThru } 
-          | Where-Object { $_.StartAmsterdam.Hour -le 23 }    
+          | Where-Object { $_.StartAmsterdam.Hour -lt 23 }    
           | Where-Object { $_.EndAmsterdam.Hour -ge 19 -or $_.EndAmsterdam.Date -gt $_.StartAmsterdam.Date }
           | ForEach-Object { New-CalendarEvent -Start ($_.StartUtc) -End ($_.EndUtc) -Summary "BBC First: $($_.FullTitle)" -Description ($_.FullSynopsis) }
           | Export-Calendar -Name 'BBC First TV Guide' -Path ./bbc-first.ics
