@@ -3,6 +3,9 @@ name: bbcfirsttvguide
 on:
   schedule:
     - cron: "0 5 * * *" # GitHub uses UTC
+  push:
+    paths:
+      - '**.yml'
   workflow_dispatch:
 
 jobs:
