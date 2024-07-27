@@ -23,8 +23,8 @@ jobs:
         run: |
           $TimeZone = [System.TimeZoneInfo]::FindSystemTimeZoneById('Europe/Amsterdam')          
           Get-BbcTvGuide -Channel bbc-first
-          | Where-Object { ([System.TimeZoneInfo]::ConvertTimeFromUtc($_.StartUtc, $TimeZone)).Hour -ge 19 }    
-          | Where-Object { ([System.TimeZoneInfo]::ConvertTimeFromUtc($_.EndUtc, $TimeZone)).Hour -le 23 }
+          | Where-Object { ([System.TimeZoneInfo]::ConvertTimeFromUtc($_.StartUtc, $TimeZone)).Hour -le 23 }    
+          | Where-Object { ([System.TimeZoneInfo]::ConvertTimeFromUtc($_.EndUtc, $TimeZone)).Hour -ge 19 }
           | ForEach-Object { New-CalendarEvent -Start ($_.StartUtc) -End ($_.EndUtc) -Summary "BBC First: $($_.FullTitle)" -Description ($_.FullSynopsis) }
           | Export-Calendar -Name 'BBC First TV Guide' -Path ./bbc-first.ics
 
