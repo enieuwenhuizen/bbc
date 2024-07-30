@@ -5,56 +5,15 @@ X-WR-CALNAME:BBC First TV Guide
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
  tish inspector who is assigned to investigate crime on the paradise islan
- d of Saint-Marie in the Caribbean.\n\nThe governor of Saint Marie is pois
- oned at her own leaving party. Could the murder have something to do with
-  an uninhabited island that had recently been reclaimed by the French? 2/
- 8
-DTEND:20240729T180000Z
-DTSTAMP:20240729T053055Z
-DTSTART:20240729T165500Z
-SEQUENCE:0
-SUMMARY:BBC First: Death in Paradise - Series 5\, Episode 2
-UID:9b702487-d3ee-4c53-89ec-44f2be34a370
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Robson Green stars as Police Inspector Geordie Keating\, one h
- alf of an unlikely crime fighting duo\, alongside Granchester's local Vic
- ar.\n\nSidney thinks nothing of a dead bird he finds in the vicarage. But
-  when more dead birds are found at the scenes of two recent deaths\, he s
- tarts to become worried. 1/6
-DTEND:20240729T190000Z
-DTSTAMP:20240729T053055Z
-DTSTART:20240729T180000Z
-SEQUENCE:0
-SUMMARY:BBC First: Grantchester - Series 3\, Episode 1
-UID:77d9dc14-52e7-4c71-b5a9-002937bb766e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:A serial killer is on the loose on the ferry from Newcastle to
-  Amsterdam. Can Draper's Tours hostess Gemma and driver Terry identify th
- e killer before the sabotaged ship sinks?\n\nA serial killer is on the lo
- ose on the ferry from Newcastle to Amsterdam. Can Draper's Tours hostess 
- Gemma and driver Terry identify the killer before the sabotaged ship sink
- s?
-DTEND:20240729T210000Z
-DTSTAMP:20240729T053055Z
-DTSTART:20240729T190000Z
-SEQUENCE:0
-SUMMARY:BBC First: Death on the Tyne - Episode 1
-UID:3ef2237b-5b7d-4a12-b6e9-b2b965185fc6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
- tish inspector who is assigned to investigate crime on the paradise islan
  d of Saint-Marie in the Caribbean.\n\nThe team must find evidence to rule
   out death by natural causes after Dwayne receives a text message from a 
  deceased local barber - whose mobile phone was buried with him. 4/8
 DTEND:20240730T180000Z
-DTSTAMP:20240729T053055Z
+DTSTAMP:20240730T053050Z
 DTSTART:20240730T165500Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 5\, Episode 4
-UID:fa0d4fa3-9c99-4831-811f-7bc419034cfc
+UID:4666c1e3-ecea-4f0d-b9f5-606b412cbf7b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Robson Green stars as Police Inspector Geordie Keating\, one h
@@ -63,11 +22,11 @@ DESCRIPTION:Robson Green stars as Police Inspector Geordie Keating\, one h
  tween the captain and the new Pakistani batsman bring tensions to the sur
  face. 2/6
 DTEND:20240730T190000Z
-DTSTAMP:20240729T053055Z
+DTSTAMP:20240730T053050Z
 DTSTART:20240730T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: Grantchester - Series 3\, Episode 2
-UID:bb376f85-1ad9-4de3-93cd-e34e8a8dd667
+UID:7c561f09-447f-4012-9ed8-b75276a76f9b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Alexa Crowe\, a fearless private investigator\, puts on her de
@@ -76,11 +35,11 @@ DESCRIPTION:Alexa Crowe\, a fearless private investigator\, puts on her de
  es collide when she investigates the tragic death of a drag queen whose s
  tar was on the rise. 3/10
 DTEND:20240730T200000Z
-DTSTAMP:20240729T053055Z
+DTSTAMP:20240730T053050Z
 DTSTART:20240730T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: My Life is Murder - All that Glitters
-UID:3d3474cc-ca81-4e60-949c-2192673f9de4
+UID:62278cac-c541-456b-8f40-8259843a29a9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Alexa Crowe\, a fearless private investigator\, puts on her de
@@ -88,11 +47,11 @@ DESCRIPTION:Alexa Crowe\, a fearless private investigator\, puts on her de
  h the everyday problems of life.\n\nAlexa is confronted by her own histor
  y when she investigates the death of a museum curator. 4/10
 DTEND:20240730T210000Z
-DTSTAMP:20240729T053055Z
+DTSTAMP:20240730T053050Z
 DTSTART:20240730T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: My Life is Murder - Look Don't Touch
-UID:77ec5434-a6ae-46eb-82f1-c2fffef78e9d
+UID:2a814bcb-43bd-42fa-8549-03f9f772e5d6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
@@ -102,11 +61,11 @@ DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
   of his new restaurant. Meanwhile\, Florence gives DI Goodman a lesson in
   love. 6/8
 DTEND:20240731T180000Z
-DTSTAMP:20240729T053055Z
+DTSTAMP:20240730T053051Z
 DTSTART:20240731T165500Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 5\, Episode 6
-UID:c8d9d96c-8fdf-406e-9746-86ad70e3b92a
+UID:d4065a5f-a656-42a7-a95d-99d164dba183
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Robson Green stars as Police Inspector Geordie Keating\, one h
@@ -114,11 +73,11 @@ DESCRIPTION:Robson Green stars as Police Inspector Geordie Keating\, one h
  ar.\n\nWhen Leonard is caught in a hold up at the post office\, the shy c
  urate - and his blossoming romance - becomes the centre of attention. 3/6
 DTEND:20240731T190000Z
-DTSTAMP:20240729T053055Z
+DTSTAMP:20240730T053051Z
 DTSTART:20240731T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: Grantchester - Series 3\, Episode 3
-UID:465854a0-258b-4b6a-ba09-e6c769f6950f
+UID:9e58cc61-70cb-4650-bf42-e5c27300a4f3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
@@ -126,11 +85,11 @@ DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
  d of Saint-Marie in the Caribbean.\n\nDI Neville Parker and his team solv
  e a series of murders on the island of Saint Marie. 8/8
 DTEND:20240731T200500Z
-DTSTAMP:20240729T053055Z
+DTSTAMP:20240730T053051Z
 DTSTART:20240731T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 12\, Episode 8
-UID:59c796dc-bcc5-4473-b840-6db281c63792
+UID:1dcaed91-6c08-4f1b-93f6-d9ff3541095c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The harrowing true story of former journalist-turned-psycholog
@@ -139,11 +98,11 @@ DESCRIPTION:The harrowing true story of former journalist-turned-psycholog
  ut as the pressure mounts at work\, will Micki's world come crashing down
  ? 11/11
 DTEND:20240731T210500Z
-DTSTAMP:20240729T053055Z
+DTSTAMP:20240730T053051Z
 DTSTART:20240731T200500Z
 SEQUENCE:0
 SUMMARY:BBC First: Catch Me a Killer - The Saloon Killer: Part 2
-UID:42f20627-f0a6-4324-bdea-2f04b2c3acf5
+UID:e5058b66-fbd3-44dc-83f0-81c48e4cfd68
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
@@ -153,11 +112,11 @@ DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
  hile\, it's the day of JP's wedding - but will he make it to the alter? 8
  /8
 DTEND:20240801T180000Z
-DTSTAMP:20240729T053055Z
+DTSTAMP:20240730T053051Z
 DTSTART:20240801T165500Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 5\, Episode 8
-UID:eb75b1ad-caa7-499b-9114-1c4452269041
+UID:d8f48000-c1cc-4479-bd71-897439ee095c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Robson Green stars as Police Inspector Geordie Keating\, one h
@@ -166,11 +125,11 @@ DESCRIPTION:Robson Green stars as Police Inspector Geordie Keating\, one h
  ess misadventure\, until Geordie starts to unearth signs of a cover up. 4
  /6
 DTEND:20240801T190000Z
-DTSTAMP:20240729T053055Z
+DTSTAMP:20240730T053051Z
 DTSTART:20240801T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: Grantchester - Series 3\, Episode 4
-UID:f8c82ad2-4e3c-481b-9b07-575b06df7176
+UID:a86d1ecf-e829-4fd8-a099-825c69aaa232
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Hope Street celebrates the warm hearted and good humoured peop
@@ -183,11 +142,11 @@ DESCRIPTION:Hope Street celebrates the warm hearted and good humoured peop
  ning Ulster coastline\, returns. Police Inspector Finn's world is blown a
  part when he finds out that Concepta isn't his birth mother. 1/15
 DTEND:20240801T200000Z
-DTSTAMP:20240729T053055Z
+DTSTAMP:20240730T053051Z
 DTSTART:20240801T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Hope Street - Series 3\, Episode 1
-UID:c43b21c2-286a-4ea0-b9db-ee9993c3ae24
+UID:45105967-312c-473a-a635-424301ae1f9c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Eliza Scarlet joins forces with a Scotland Yard Inspector to s
@@ -196,11 +155,11 @@ DESCRIPTION:Eliza Scarlet joins forces with a Scotland Yard Inspector to s
  ustry where people will kill to keep their secrets. A new technology has 
  arrived\, and with it\, two murders. 5/6
 DTEND:20240801T210000Z
-DTSTAMP:20240729T053055Z
+DTSTAMP:20240730T053051Z
 DTSTART:20240801T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: Miss Scarlet and the Duke - The Calling
-UID:21d42528-aeb4-4996-b5da-9096d2086b01
+UID:b69a831d-e708-4651-a2c7-6e5d75b98b24
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
@@ -210,11 +169,11 @@ DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
  ing committed suicide\, but Humphrey smells murder when her laptop can't 
  be found. 2/8
 DTEND:20240802T180000Z
-DTSTAMP:20240729T053056Z
+DTSTAMP:20240730T053051Z
 DTSTART:20240802T165500Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 6\, Episode 2
-UID:1fa9d54a-9b2f-4abb-ac25-6894e94cb32e
+UID:7a0c6e33-65f3-4ff2-8584-8e345d0bc972
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Robson Green stars as Police Inspector Geordie Keating\, one h
@@ -223,11 +182,11 @@ DESCRIPTION:Robson Green stars as Police Inspector Geordie Keating\, one h
  ated community without his dog collar\, plagued with self-doubt\, and wit
  h only his wits to keep him alive. 5/6
 DTEND:20240802T190000Z
-DTSTAMP:20240729T053056Z
+DTSTAMP:20240730T053051Z
 DTSTART:20240802T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: Grantchester - Series 3\, Episode 5
-UID:f9d9280c-eb40-46ad-9de7-e3a58144cc10
+UID:2f58adc9-a99d-4d69-b20e-2b31f1fce02b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Robson Green stars as Police Inspector Geordie Keating\, one h
@@ -236,11 +195,11 @@ DESCRIPTION:Robson Green stars as Police Inspector Geordie Keating\, one h
  htful father of the child\, Will and Geordie find themselves drawn into a
   complicated dispute connected to the murder of Joan Beaumont. 2/8
 DTEND:20240802T200000Z
-DTSTAMP:20240729T053056Z
+DTSTAMP:20240730T053051Z
 DTSTART:20240802T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Grantchester - Series 6\, Episode 2
-UID:d9847c2c-4ba1-4766-b1b4-eb75c75824df
+UID:20706cfc-6e10-4962-9571-aa0deee028f3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:A shy and enigmatic Detective Sergeant is partnered with a wil
@@ -249,11 +208,11 @@ DESCRIPTION:A shy and enigmatic Detective Sergeant is partnered with a wil
  Bath businessman is found in a shallow grave in the shadow of the Glaston
  bury Tor. 3/3
 DTEND:20240802T220000Z
-DTSTAMP:20240729T053056Z
+DTSTAMP:20240730T053051Z
 DTSTART:20240802T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: McDonald & Dodds - Clouds Across the Moon
-UID:046a3524-f4d6-4e14-8758-ae07b691c538
+UID:09787aac-2b8a-465c-b022-0e90840e483a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:In this spin-off to the mystery series\, we find ourselves in 
@@ -263,12 +222,12 @@ DESCRIPTION:In this spin-off to the mystery series\, we find ourselves in
  lorence is found dead\, apparently through suicide\, Ms Fisher becomes ev
  en more determined to prove that it was foul play. 2/8
 DTEND:20240803T180000Z
-DTSTAMP:20240729T053056Z
+DTSTAMP:20240730T053051Z
 DTSTART:20240803T170000Z
 SEQUENCE:0
 SUMMARY:BBC First: Ms Fisher's Modern Murder Mysteries - Just Murdered\, P
  art 2
-UID:9344cba3-7fb1-4ffd-85ce-87840a05890c
+UID:375116f0-372f-41f8-87cf-205e483d94db
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Gently and Bacchus investigate the murder of a well-known left
@@ -276,11 +235,11 @@ DESCRIPTION:Gently and Bacchus investigate the murder of a well-known left
  y of a murdered girl washed up by a pier leads Gently and Bacchus to inve
  stigate the staff and holidaymakers at a family holiday camp. 2/4
 DTEND:20240803T195500Z
-DTSTAMP:20240729T053056Z
+DTSTAMP:20240730T053051Z
 DTSTART:20240803T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: Inspector George Gently - Blue for Bluebird
-UID:aa5fa992-d0ce-48e6-83d6-735a28fb8f82
+UID:2f113213-dbb6-4f9f-8b56-e50c645abae7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:In 1920s Melbourne\, the Honorable Phryne Fisher is a thorough
@@ -290,11 +249,11 @@ DESCRIPTION:In 1920s Melbourne\, the Honorable Phryne Fisher is a thorough
  shed to his death from the rooftop of the Grand Hotel. Jack calls Phryne 
  in on the case\, which looks like a robbery gone wrong. 6/8
 DTEND:20240803T210000Z
-DTSTAMP:20240729T053056Z
+DTSTAMP:20240730T053051Z
 DTSTART:20240803T195500Z
 SEQUENCE:0
 SUMMARY:BBC First: Miss Fisher's Murder Mysteries - Death at the Grand
-UID:fa71fe29-2b87-42cf-9c19-045d8a8f56f2
+UID:12dd20f2-90a1-44a9-b66b-e0c36bec5d27
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Feel-good drama about a British police officer who joins force
@@ -303,11 +262,11 @@ DESCRIPTION:Feel-good drama about a British police officer who joins force
  anti-bullfighting campaigner brings Max and Miranda to Cazador in the wil
  d interior of Mallorca. 8/10
 DTEND:20240804T180000Z
-DTSTAMP:20240729T053056Z
+DTSTAMP:20240730T053051Z
 DTSTART:20240804T170000Z
 SEQUENCE:0
 SUMMARY:BBC First: The Mallorca Files - Death in the Morning
-UID:753a4dd9-bcc8-4ed7-beff-ee1e3decd59f
+UID:776d6044-9774-4764-9d92-925c56835853
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -317,22 +276,22 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  ah Pensell\, channels a murder victim and reveals the location of her bod
  y\, Murdoch must come up with a rational explanation. 4/13
 DTEND:20240804T190000Z
-DTSTAMP:20240729T053056Z
+DTSTAMP:20240730T053051Z
 DTSTART:20240804T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - Elementary\, My Dear Murdoch
-UID:eac4279e-eae5-4cc5-a0c4-c7ffc10499cf
+UID:e39cc7ba-9be8-439c-b582-080f79504cbc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:An unlikely group of lawbreakers are forced together in a comm
  unity payback project.\n\nAs the police investigate the crime and Rani's 
  involvement\, the other outlaws don't know who they can trust. 2/5
 DTEND:20240804T201500Z
-DTSTAMP:20240729T053056Z
+DTSTAMP:20240730T053051Z
 DTSTART:20240804T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: The Outlaws - Series 3\, Episode 2
-UID:878f8b93-4e75-4c98-9eab-7f3e517e13ad
+UID:dd2f297f-2bf2-443d-8a30-da83a66d9c3c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Antique dealer Jean White finds her life turned upside down wh
@@ -342,11 +301,11 @@ DESCRIPTION:Antique dealer Jean White finds her life turned upside down wh
  or the night of his date with Jean\, but as she prepares to leave for Man
  chester\, she receives a nasty shock. 6/6
 DTEND:20240804T211500Z
-DTSTAMP:20240729T053056Z
+DTSTAMP:20240730T053051Z
 DTSTART:20240804T201500Z
 SEQUENCE:0
 SUMMARY:BBC First: The Madame Blanc Mysteries - Series 1\, Episode 6
-UID:5adea1af-b16d-4a73-b16d-a60b45e613f8
+UID:d75813f0-b0ec-4805-a251-f8a319a04216
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
@@ -355,11 +314,11 @@ DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
  icket club is found shot dead in the middle of the team's ground. As the 
  sun rises over the island\, suspicion falls on his teammates. 4/8
 DTEND:20240805T180000Z
-DTSTAMP:20240729T053056Z
+DTSTAMP:20240730T053051Z
 DTSTART:20240805T165500Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 6\, Episode 4
-UID:eb0cd0e8-4498-4c1d-b9ff-5aed5959f5f1
+UID:197da6a1-e74d-4cd1-abd3-134636f57818
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Robson Green stars as Police Inspector Geordie Keating\, one h
@@ -367,11 +326,11 @@ DESCRIPTION:Robson Green stars as Police Inspector Geordie Keating\, one h
  ar.\n\nA missing child strikes fear into the heart of the village\, and i
  t's up to Sidney to rally the community in its time of greatest need. 6/6
 DTEND:20240805T190000Z
-DTSTAMP:20240729T053056Z
+DTSTAMP:20240730T053051Z
 DTSTART:20240805T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: Grantchester - Series 3\, Episode 6
-UID:2e89c9d3-f2ce-4c8b-8123-024c4d94d7b6
+UID:3ef76195-4187-48d0-b1bf-82b12c7bc6e1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:When the Draper's Tours coach breaks down\, Terry and Gemma ar
@@ -379,10 +338,60 @@ DESCRIPTION:When the Draper's Tours coach breaks down\, Terry and Gemma ar
  en the Draper's Tours coach breaks down\, Terry and Gemma are forced to t
  ake refuge at a sinister and dilapidated caravan park.
 DTEND:20240805T210000Z
-DTSTAMP:20240729T053056Z
+DTSTAMP:20240730T053051Z
 DTSTART:20240805T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Dial M for Middlesbrough - Episode 1
-UID:9ca31213-f0c6-4e75-9cc5-286fc76ded50
+UID:5e8460ae-e05b-44ef-8cbf-e5508c4aee2b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
+ tish inspector who is assigned to investigate crime on the paradise islan
+ d of Saint-Marie in the Caribbean.\n\nThe team race against the clock in 
+ London to solve two murders after their prime suspect is found dead. 6/8
+DTEND:20240806T180000Z
+DTSTAMP:20240730T053051Z
+DTSTART:20240806T165500Z
+SEQUENCE:0
+SUMMARY:BBC First: Death in Paradise - Series 6\, Episode 6
+UID:fda9849c-9db6-4dd6-a70c-3e2d1d555f93
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Robson Green stars as Police Inspector Geordie Keating\, one h
+ alf of an unlikely crime fighting duo\, alongside Granchester's local Vic
+ ar.\n\nSidney Chambers attends a talk by the Rev. Nathaniel Todd\, involv
+ ed in the Civil Rights movement in America. During the event\, protestors
+  disrupt Todd's speech\, causing panic and chaos. 1/6
+DTEND:20240806T190000Z
+DTSTAMP:20240730T053051Z
+DTSTART:20240806T180000Z
+SEQUENCE:0
+SUMMARY:BBC First: Grantchester - Series 4\, Episode 1
+UID:57aaa7a3-2857-421d-ac3c-802bf05b18bd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Alexa Crowe\, a fearless private investigator\, puts on her de
+ tective shoes to solve some of the most baffling crimes while dealing wit
+ h the everyday problems of life.\n\nAlexa will need all five senses to so
+ lve the mysterious death of an ambitious winemaker. 5/10
+DTEND:20240806T200000Z
+DTSTAMP:20240730T053051Z
+DTSTART:20240806T190000Z
+SEQUENCE:0
+SUMMARY:BBC First: My Life is Murder - Crushed Dreams
+UID:2098dbdb-9ded-4208-a2ea-cac188744973
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Alexa Crowe\, a fearless private investigator\, puts on her de
+ tective shoes to solve some of the most baffling crimes while dealing wit
+ h the everyday problems of life.\n\nA frosty reception awaits Alexa when 
+ she investigates how a chef froze to death in his own walk-in freezer. 6/
+ 10
+DTEND:20240806T210000Z
+DTSTAMP:20240730T053051Z
+DTSTART:20240806T200000Z
+SEQUENCE:0
+SUMMARY:BBC First: My Life is Murder - Sleep No More
+UID:8fa8a1fb-b6e9-4326-8ba7-0c58ea66f99f
 END:VEVENT
 END:VCALENDAR
