@@ -5,82 +5,14 @@ X-WR-CALNAME:BBC First TV Guide
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
  tish inspector who is assigned to investigate crime on the paradise islan
- d of Saint-Marie in the Caribbean.\n\nThe team investigate a preppers com
- mune when one of their members is poisoned inside a locked bunker. Meanwh
- ile\, Neville has a series of adventurous dates with Sophie. 2/8
-DTEND:20240909T180000Z
-DTSTAMP:20240909T050907Z
-DTSTART:20240909T165500Z
-SEQUENCE:0
-SUMMARY:BBC First: Death in Paradise - Series 12\, Episode 2
-UID:409fa866-67d7-4520-8f8c-437ad5533bbc
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
- team investigate the gruesome killings and murders using the most sophist
- icated techniques that were unheard of in the late 1890s.\n\nInspector Mu
- rdoch investigates shooting of vaudeville comedian Bert Grady who is foun
- d dead on the street\, shot three times in the chest. Grady had just fini
- shed his performance at the Bradley theatre. 9/18
-DTEND:20240909T190000Z
-DTSTAMP:20240909T050907Z
-DTSTART:20240909T180000Z
-SEQUENCE:0
-SUMMARY:BBC First: Murdoch Mysteries - Keystone Constables
-UID:01da9479-4102-46f3-b0de-b0b322f3b62d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:8-year-old Darren and churchwarden Miss Wharton find two dead 
- bodies in the vestry of St Matthew's Church\, Paddington\, their throats 
- brutally slashed. 5/6
-DTEND:20240909T200000Z
-DTSTAMP:20240909T050907Z
-DTSTART:20240909T190000Z
-SEQUENCE:0
-SUMMARY:BBC First: Dalgliesh - A Taste for Death\, Part 1
-UID:7c9a9292-3455-4bdb-b755-fd912348c1c2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Hope Street celebrates the warm hearted and good humoured peop
- le of a beautiful\, fictional town in Northern Ireland as they build a fu
- ture together rather than dwelling on the differences of the past. Set in
-  the fictional town of Port Devine on the Northern Ireland coast\, it foc
- uses on Port Devine's police department and the mysterious arrival of Eng
- lish Detective Constable Leila Hussain\, the first Muslim police officer 
- in the town's history.\n\nConcepta is back in town\, determined to ignore
-  the fact that she's not Finn's birth mother - and carry on like nothing 
- has changed. Will Finn be able to live with that? 6/15
-DTEND:20240909T205500Z
-DTSTAMP:20240909T050907Z
-DTSTART:20240909T200000Z
-SEQUENCE:0
-SUMMARY:BBC First: Hope Street - Series 3\, Episode 6
-UID:4322ed12-1c04-4063-8864-0c82a165b95e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Every dead body has its secrets and the forensic pathologists 
- of Lyell are determined to uncover them\, as they assist the authorities 
- with their murder investigations.\n\nLevelling-up leaders and environment
- al activists clash in a small town trying to look to the future. With a s
- abotaged train and a dead mayor\, the activists become suspects. 7/10
-DTEND:20240909T220000Z
-DTSTAMP:20240909T050907Z
-DTSTART:20240909T205500Z
-SEQUENCE:0
-SUMMARY:BBC First: Silent Witness - Hearts of Darkness\, Part 1
-UID:6bb535ae-c3a2-44bc-a632-7ad627a3102a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
- tish inspector who is assigned to investigate crime on the paradise islan
  d of Saint-Marie in the Caribbean.\n\nDI Neville Parker and his team solv
  e a series of murders on the island of Saint Marie. 4/8
 DTEND:20240910T180000Z
-DTSTAMP:20240909T050907Z
+DTSTAMP:20240910T050836Z
 DTSTART:20240910T165500Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 12\, Episode 4
-UID:2dc1583d-086a-4644-9515-5fac926b612c
+UID:29d14c71-069e-4e4f-9abc-8458819af424
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -90,22 +22,22 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  rnate and booby-trapped laden building that could contain the Holy Grail.
   10/18
 DTEND:20240910T190000Z
-DTSTAMP:20240909T050907Z
+DTSTAMP:20240910T050836Z
 DTSTART:20240910T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - Murdoch and the Temple of Death
-UID:0eaffe31-943e-4bdb-9e07-d6366b5b975f
+UID:687fcad1-1826-4458-8b84-584277a6a613
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:As the summer comes to an end\, George sets in motion a final 
  adventure to protect a circus magician from an unscrupulous doctor who wi
  shes to make use of his powers in the clinic. 3/3
 DTEND:20240910T210000Z
-DTSTAMP:20240909T050907Z
+DTSTAMP:20240910T050836Z
 DTSTART:20240910T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: The Famous Five - The Eye Of The Sunrise
-UID:e4b5147f-79af-4701-9c4d-1bed4f2b29c2
+UID:788b1ee5-7774-4787-8600-7769df9b6b2b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
@@ -113,11 +45,11 @@ DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
  d of Saint-Marie in the Caribbean.\n\nDI Neville Parker and his team solv
  e a series of murders on the island of Saint Marie. 6/8
 DTEND:20240911T180000Z
-DTSTAMP:20240909T050907Z
+DTSTAMP:20240910T050836Z
 DTSTART:20240911T165500Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 12\, Episode 6
-UID:b97af8c5-4618-466b-b2df-3276bfa8c863
+UID:94aec8d0-c2cb-4564-8d11-c781d7eee811
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -126,11 +58,11 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  Crabtree follow the mineral rush to Northern Ontario to investigate the m
  urder of a land surveyor. 11/18
 DTEND:20240911T190000Z
-DTSTAMP:20240909T050907Z
+DTSTAMP:20240910T050836Z
 DTSTART:20240911T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - All That Glitters
-UID:74402ea1-ad75-490a-8796-b3cb0aecc492
+UID:8be24796-b850-4d2a-b232-5e583aed4b02
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
@@ -139,11 +71,11 @@ DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
  n about his future\, he's also forced to confront his past when his old b
  oss is murdered\, and the only witness is his pet parrot. 5/8
 DTEND:20240911T200500Z
-DTSTAMP:20240909T050907Z
+DTSTAMP:20240910T050836Z
 DTSTART:20240911T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 13\, Episode 5
-UID:da73fe6e-b368-4106-9c9d-65862e377678
+UID:ab8bea6c-1fc5-48d6-89d9-051bd3f9b08d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:In a world where appearance is everything\, DI Max Arnold has 
@@ -153,11 +85,11 @@ DESCRIPTION:In a world where appearance is everything\, DI Max Arnold has
  y sessions and notice something odd\, leading them to some unusual suspec
  ts. 5/8
 DTEND:20240911T210000Z
-DTSTAMP:20240909T050907Z
+DTSTAMP:20240910T050836Z
 DTSTART:20240911T200500Z
 SEQUENCE:0
 SUMMARY:BBC First: The Chelsea Detective - The Reliable Witness\, Part 1
-UID:78fac107-9dea-433c-a6da-b011ef38fc61
+UID:13ab5b92-508b-4b12-a4ea-7314598e71a6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
@@ -165,11 +97,11 @@ DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
  d of Saint-Marie in the Caribbean.\n\nDI Neville Parker and his team solv
  e a series of murders on the island of Saint Marie. 8/8
 DTEND:20240912T180000Z
-DTSTAMP:20240909T050908Z
+DTSTAMP:20240910T050836Z
 DTSTART:20240912T165500Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 12\, Episode 8
-UID:96e55172-c12c-4c9c-80fc-6ce0c2e0b00e
+UID:79c77b37-9c38-4c13-83d3-2af796019a7e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -179,11 +111,11 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
   designer corset show. Guest starring Kari Matchett (Covert Affairs). 12/
  18
 DTEND:20240912T190000Z
-DTSTAMP:20240909T050908Z
+DTSTAMP:20240910T050836Z
 DTSTART:20240912T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - The Devil Wears Whalebone
-UID:981b5c21-80a1-4a5e-9380-1d9bf010c10d
+UID:1a10544e-adb3-4e44-a0f8-15d6dc07cab6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Hope Street celebrates the warm hearted and good humoured peop
@@ -196,11 +128,11 @@ DESCRIPTION:Hope Street celebrates the warm hearted and good humoured peop
  \, the police officers find themselves uncovering a tale of shipmates\, s
  muggling and stolen treasure. 7/15
 DTEND:20240912T200000Z
-DTSTAMP:20240909T050908Z
+DTSTAMP:20240910T050836Z
 DTSTART:20240912T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Hope Street - Series 3\, Episode 7
-UID:91046a2e-48a9-4117-88d3-847975ae1834
+UID:847babc6-2795-4684-befd-d112a6300884
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:In Edinburgh's murky underbelly\, DS Rebus is drawn into a vio
@@ -209,11 +141,11 @@ DESCRIPTION:In Edinburgh's murky underbelly\, DS Rebus is drawn into a vio
  bloody consequences for his brother John\, who is facing a fatal confront
  ation. 2/6
 DTEND:20240912T210000Z
-DTSTAMP:20240909T050908Z
+DTSTAMP:20240910T050836Z
 DTSTART:20240912T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: Rebus - Series 1\, Episode 2
-UID:1cd28c26-d0df-4d72-a344-1642aca21881
+UID:404ab964-cf2d-48ad-9367-45a9fc7f2e7e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:DI Neville Parker investigates when entrepreneur and family ma
@@ -222,11 +154,11 @@ DESCRIPTION:DI Neville Parker investigates when entrepreneur and family ma
  n\, Gerry Stableforth\, is found dead in a ravine. His family are left in
   shock.
 DTEND:20240913T180000Z
-DTSTAMP:20240909T050908Z
+DTSTAMP:20240910T050837Z
 DTSTART:20240913T160000Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise: Christmas Special 2023 - Episode 1
-UID:39e1bdab-de49-4cc7-8d5d-11fb4e6dbea8
+UID:a3017dca-9ff6-4c3e-9e50-d3fd1f43a56f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -235,11 +167,11 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  life is threatened by a group of deeply troubled and violent inmates at t
  he asylum\, including Eva Pearce\, Mrs. Lynd and Rose Maxwell. 13/18
 DTEND:20240913T190000Z
-DTSTAMP:20240909T050908Z
+DTSTAMP:20240910T050837Z
 DTSTART:20240913T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - The Incurables
-UID:00c1b2ed-009a-4340-adcd-3c34c69e73f7
+UID:791d6a00-94c4-455a-853d-6006ccbd4525
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Robson Green stars as Police Inspector Geordie Keating\, one h
@@ -247,22 +179,22 @@ DESCRIPTION:Robson Green stars as Police Inspector Geordie Keating\, one h
  ar.\n\nWhen a successful music producer is murdered\, Geordie finds himse
  lf implicated in the investigation. 8/8
 DTEND:20240913T200000Z
-DTSTAMP:20240909T050908Z
+DTSTAMP:20240910T050837Z
 DTSTART:20240913T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Grantchester - Series 6\, Episode 8
-UID:86c31c10-f084-45ea-957e-11af1be44272
+UID:dd671588-312a-429b-bf3d-e55a4f64ddf0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:As the summer comes to an end\, George sets in motion a final 
  adventure to protect a circus magician from an unscrupulous doctor who wi
  shes to make use of his powers in the clinic. 3/3
 DTEND:20240913T215500Z
-DTSTAMP:20240909T050908Z
+DTSTAMP:20240910T050837Z
 DTSTART:20240913T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: The Famous Five - The Eye Of The Sunrise
-UID:e3956d1c-1924-4cba-af8d-abd0f76a69b7
+UID:df8e426d-bc3f-42d1-a0d0-0d34e8243cc1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:In this spin-off to the mystery series\, we find ourselves in 
@@ -273,11 +205,11 @@ DESCRIPTION:In this spin-off to the mystery series\, we find ourselves in
  pigeon coop\, the investigation takes Peregrine and James to one of Melbo
  urne's suburban pigeon racing clubs. 6/8
 DTEND:20240914T180000Z
-DTSTAMP:20240909T050908Z
+DTSTAMP:20240910T050837Z
 DTSTART:20240914T170000Z
 SEQUENCE:0
 SUMMARY:BBC First: Ms Fisher's Modern Murder Mysteries - Coop De Grace
-UID:28cacb66-58c9-411f-9a34-ff3f864ec894
+UID:b09f6848-c86d-4061-9362-855b1436a1ae
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Gently and Bacchus investigate the murder of a well-known left
@@ -286,22 +218,22 @@ DESCRIPTION:Gently and Bacchus investigate the murder of a well-known left
  bbery\, and in a fast-changing world he must make a tough decision. Can h
  e bend the rules just this once? 4/4
 DTEND:20240914T200000Z
-DTSTAMP:20240909T050908Z
+DTSTAMP:20240910T050837Z
 DTSTART:20240914T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: Inspector George Gently - Son of a Gun
-UID:7445fa39-4a24-4cc3-bc1f-86efeb0fd48f
+UID:83613a41-8b5c-46d3-97c3-88885dde630f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:8-year-old Darren and churchwarden Miss Wharton find two dead 
  bodies in the vestry of St Matthew's Church\, Paddington\, their throats 
  brutally slashed. 5/6
 DTEND:20240914T210000Z
-DTSTAMP:20240909T050908Z
+DTSTAMP:20240910T050837Z
 DTSTART:20240914T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: Dalgliesh - A Taste for Death\, Part 1
-UID:47ad9bb4-083b-46f1-a45e-ccee6ebb2f2d
+UID:e117c0fb-e42b-4307-9134-d0cfc2a7feac
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -311,11 +243,11 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  e in the centre of a recently plowed field with no footprints in the surr
  ounding soil. 13/13
 DTEND:20240915T180000Z
-DTSTAMP:20240909T050908Z
+DTSTAMP:20240910T050838Z
 DTSTART:20240915T170000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - The Annoying Red Planet
-UID:66910dd4-5f12-450b-84fe-35acb6eb693d
+UID:843ced5a-2e54-4e61-a4cf-8b7bcbf9b86f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Dutch detective Van Der Valk is re-imagined in contemporary Am
@@ -324,11 +256,11 @@ DESCRIPTION:Dutch detective Van Der Valk is re-imagined in contemporary Am
  r Valk and his team try to find out if the killings were politically moti
  vated\, or something else. 2/6
 DTEND:20240915T190000Z
-DTSTAMP:20240909T050908Z
+DTSTAMP:20240910T050838Z
 DTSTART:20240915T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: Van Der Valk - Love in Amsterdam\, Part 2
-UID:5a3d55a7-158a-4b1c-9c60-8778546c80f9
+UID:8dff0601-29a6-4feb-aa08-7f317f3649de
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:In Edinburgh's murky underbelly\, DS Rebus is drawn into a vio
@@ -337,11 +269,11 @@ DESCRIPTION:In Edinburgh's murky underbelly\, DS Rebus is drawn into a vio
  is brother abducts drug dealer Darryl Christie and recruits ex-army comra
  des for a risky raid. 3/6
 DTEND:20240915T200000Z
-DTSTAMP:20240909T050908Z
+DTSTAMP:20240910T050838Z
 DTSTART:20240915T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Rebus - Series 1\, Episode 3
-UID:94487b76-e295-47e8-8bd9-92dacf6c3850
+UID:c9918289-3d61-41bf-99be-c67c5fdf7406
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Antique dealer Jean White finds her life turned upside down wh
@@ -352,11 +284,11 @@ DESCRIPTION:Antique dealer Jean White finds her life turned upside down wh
   friend\, Dura\, is recording his comeback album in the Millhouse. But th
  en he is found murdered. 6/7
 DTEND:20240915T210000Z
-DTSTAMP:20240909T050908Z
+DTSTAMP:20240910T050838Z
 DTSTART:20240915T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: The Madame Blanc Mysteries - Series 2\, Episode 6
-UID:82fb8734-2c40-4474-a103-50cdc53489c8
+UID:d249c1fb-2a1c-4786-a0be-e42e3d1793a0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
@@ -365,11 +297,11 @@ DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
  local care home resident is found stabbed with her own knitting needle\, 
  clutching a mysterious photo of a dead man. 2/8
 DTEND:20240916T180000Z
-DTSTAMP:20240909T050908Z
+DTSTAMP:20240910T050838Z
 DTSTART:20240916T165500Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 13\, Episode 2
-UID:1be49dc8-0c58-413c-8934-4918210673a6
+UID:5619f905-482b-4881-a8fc-b8c76d062b91
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -379,21 +311,21 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  y be connected to a gang of female jewel thieves. Guest starring Charlie 
  Clements. 14/18
 DTEND:20240916T190000Z
-DTSTAMP:20240909T050908Z
+DTSTAMP:20240910T050838Z
 DTSTART:20240916T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - Toronto's Girl Problem
-UID:02a633d8-ae8c-4895-a415-5f746eb51e8a
+UID:e27915c5-c2f3-48d2-8b71-8c37068986f9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:After the attack on Father Barnes while Halliwell was in custo
  dy\, Dalgliesh brings Swayne and Lampart in for questioning. 6/6
 DTEND:20240916T200000Z
-DTSTAMP:20240909T050908Z
+DTSTAMP:20240910T050838Z
 DTSTART:20240916T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Dalgliesh - A Taste for Death\, Part 2
-UID:9b152cca-2733-4958-a965-2f0f39493481
+UID:3d8ee0f4-daa3-4d61-b04a-c220e13aed8f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Hope Street celebrates the warm hearted and good humoured peop
@@ -406,11 +338,11 @@ DESCRIPTION:Hope Street celebrates the warm hearted and good humoured peop
  \, the police officers find themselves uncovering a tale of shipmates\, s
  muggling and stolen treasure. 7/15
 DTEND:20240916T205500Z
-DTSTAMP:20240909T050908Z
+DTSTAMP:20240910T050838Z
 DTSTART:20240916T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: Hope Street - Series 3\, Episode 7
-UID:59dd367f-c246-4e64-be7d-fced5dcb68da
+UID:85d74bc7-6084-43bf-980f-e09a60aaa028
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Every dead body has its secrets and the forensic pathologists 
@@ -419,10 +351,79 @@ DESCRIPTION:Every dead body has its secrets and the forensic pathologists
  here he's pitted against his former mentor. The tight-knit group of polic
  e officers provide a difficult case where nothing is as it seems. 9/10
 DTEND:20240916T220000Z
-DTSTAMP:20240909T050908Z
+DTSTAMP:20240910T050838Z
 DTSTART:20240916T205500Z
 SEQUENCE:0
 SUMMARY:BBC First: Silent Witness - Southbay\, Part 1
-UID:efda648f-63be-4086-8045-ec897d6fde98
+UID:ac197ed5-cf3b-4353-b2cb-9d83f9ec6507
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
+ tish inspector who is assigned to investigate crime on the paradise islan
+ d of Saint-Marie in the Caribbean.\n\nAn electrocution at a substation ca
+ uses an island-wide blackout and introduces the team to the baffling worl
+ d of cryptocurrency. 4/8
+DTEND:20240917T180000Z
+DTSTAMP:20240910T050839Z
+DTSTART:20240917T165500Z
+SEQUENCE:0
+SUMMARY:BBC First: Death in Paradise - Series 13\, Episode 4
+UID:714f0fdd-e28e-428c-9a69-269541cbf999
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
+ team investigate the gruesome killings and murders using the most sophist
+ icated techniques that were unheard of in the late 1890s.\n\nMurdoch revi
+ sits his past when a murder investigation at a church reunites him with t
+ he priest who mentored him as a young altar boy. Guest starring Peter Out
+ erbridge. 15/18
+DTEND:20240917T190000Z
+DTSTAMP:20240910T050839Z
+DTSTART:20240917T180000Z
+SEQUENCE:0
+SUMMARY:BBC First: Murdoch Mysteries - Shipwreck
+UID:aa7a5c2a-ccbb-4ad9-abda-086bcf517a57
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Judith\, Suzie and Becks start an investigation. To assist wit
+ h official police investigation\, headed by Tanika\, They must suspect wi
+ tnesses\, and face down real danger as they work against the clock to sto
+ p the killer in their tracks.\n\nPart 1. When Judith witnesses a murder\,
+  she teams up with vicar's wife Becks and dog walker Suzie to investigate
+ . After uncovering key evidence\, the trio must race against time to stop
+  the killer. 1/4
+DTEND:20240917T200000Z
+DTSTAMP:20240910T050839Z
+DTSTART:20240917T190000Z
+SEQUENCE:0
+SUMMARY:BBC First: The Marlow Murder Club - Series 1\, Episode 1
+UID:b74614e9-22dd-4ff7-b9fc-2176153a29df
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Mark Gatiss adapts Sir Arthur Conan Doyle's darkly entertainin
+ g story\, set in 19th century Oxford. University life is disrupted when B
+ ellingham falls into a dead faint.\n\nMark Gatiss adapts Sir Arthur Conan
+  Doyle's darkly entertaining story\, set in 19th century Oxford. Universi
+ ty life is disrupted when Bellingham falls into a dead faint.
+DTEND:20240917T204500Z
+DTSTAMP:20240910T050839Z
+DTSTART:20240917T200000Z
+SEQUENCE:0
+SUMMARY:BBC First: Ghost Stories: Lot 249 - Lot 249
+UID:641c1ec1-dce8-4ad1-81b5-0f3a1ca9a5bf
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Every dead body has its secrets and the forensic pathologists 
+ of Lyell are determined to uncover them\, as they assist the authorities 
+ with their murder investigations.\n\nAs evidence mounts against the accus
+ ed officer\, the local CID finds dissent within their ranks. The Lyell te
+ am unveil corruption and deceit within the local jurisdiction\, with dead
+ ly consequences. 10/10
+DTEND:20240917T215000Z
+DTSTAMP:20240910T050839Z
+DTSTART:20240917T204500Z
+SEQUENCE:0
+SUMMARY:BBC First: Silent Witness - Southbay\, Part 2
+UID:27c5dea1-bd98-46a5-a557-3c6974e812a7
 END:VEVENT
 END:VCALENDAR
