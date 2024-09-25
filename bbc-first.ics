@@ -7,76 +7,15 @@ DESCRIPTION:This spin-off from Death in Paradise follows DI Humphrey Goodm
  an and his fiancée\, Martha\, as they leave London to start a new life on
   the Devon coast. Humphrey takes up the vacant position of Detective Insp
  ector at Shipton Abbott police station\, a slightly antiquated outpost of
-  the Devon & Cornwall Police district.\n\nThe community of Shipton Abbott
-  is rocked when a beloved painting disappears in a seemingly impossible h
- eist. Humphrey tries his best to find some common ground with Archie. 3/6
-DTEND:20240924T180000Z
-DTSTAMP:20240924T050841Z
-DTSTART:20240924T164500Z
-SEQUENCE:0
-SUMMARY:BBC First: Beyond Paradise - Series 1\, Episode 3
-UID:02f8c4fb-e7ed-4814-930b-3847478cac0b
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
- team investigate the gruesome killings and murders using the most sophist
- icated techniques that were unheard of in the late 1890s.\n\nWhen Mark Tw
- ain (William Shatner) stirs up controversy during a speaking engagement i
- n Toronto\, Murdoch and his team must protect the esteemed American write
- r. 2/18
-DTEND:20240924T190000Z
-DTSTAMP:20240924T050841Z
-DTSTART:20240924T180000Z
-SEQUENCE:0
-SUMMARY:BBC First: Murdoch Mysteries - Series 9\, Episode 2
-UID:ed1d79e1-fa60-404d-a3d9-8e964ae216f1
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Judith\, Suzie and Becks start an investigation. To assist wit
- h official police investigation\, headed by Tanika\, They must suspect wi
- tnesses\, and face down real danger as they work against the clock to sto
- p the killer in their tracks.\n\nPart 2. When Judith witnesses a murder\,
-  she teams up with vicar's wife Becks and dog walker Suzie to investigate
- . After uncovering key evidence\, the trio must race against time to stop
-  the killer. 2/4
-DTEND:20240924T200000Z
-DTSTAMP:20240924T050841Z
-DTSTART:20240924T190000Z
-SEQUENCE:0
-SUMMARY:BBC First: The Marlow Murder Club - Series 1\, Episode 2
-UID:f47ce489-133f-42f7-9ef0-5fa0b2f4b509
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Top British spy Sylvia Fox is in Italy for her niece's wedding
-  when the groom goes missing\, leaving a dead body behind him. Sylvia sol
- ves the mystery and falls in love with Italy\, and with a crumbling old h
- ouse on a hillside. Sylvia stays on to start a new life in Umbria. But tr
- ouble has a habit of seeking Sylvia out and she finds herself tackling a 
- fresh mystery every week.\n\nPolice arrest Antonella's friend for the mur
- der of a pillar of the local community\, who was found dead at the charit
- y he runs. To clear her friend's name\, Sylvia follows a trail of blackma
- il. 1/3
-DTEND:20240924T220000Z
-DTSTAMP:20240924T050841Z
-DTSTART:20240924T200000Z
-SEQUENCE:0
-SUMMARY:BBC First: Signora Volpe - Series 2\, Episode 1
-UID:35234cea-87a6-4481-a0d1-35381adac66d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:This spin-off from Death in Paradise follows DI Humphrey Goodm
- an and his fiancée\, Martha\, as they leave London to start a new life on
-  the Devon coast. Humphrey takes up the vacant position of Detective Insp
- ector at Shipton Abbott police station\, a slightly antiquated outpost of
   the Devon & Cornwall Police district.\n\nHumphrey investigates the death
   of an unidentified man found in the centre of a crop circle. Meanwhile\,
   Archie helps Martha prepare for a visit from a food critic. 4/6
 DTEND:20240925T180000Z
-DTSTAMP:20240924T050841Z
+DTSTAMP:20240925T050829Z
 DTSTART:20240925T165000Z
 SEQUENCE:0
 SUMMARY:BBC First: Beyond Paradise - Series 1\, Episode 4
-UID:088d1805-4604-4c54-b28d-5c46201fa31e
+UID:e7058b87-d19c-46fd-a33f-93d2c1a3e090
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -84,11 +23,11 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  icated techniques that were unheard of in the late 1890s.\n\nMurdoch and 
  his colleagues investigate the murder of a young suffragette. 3/18
 DTEND:20240925T190000Z
-DTSTAMP:20240924T050841Z
+DTSTAMP:20240925T050829Z
 DTSTART:20240925T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - Series 9\, Episode 3
-UID:024a54a2-4df0-4c26-b1c1-269ab6276460
+UID:5304b5eb-086f-481f-8444-a91514367a17
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
@@ -97,11 +36,11 @@ DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
   working between two islands as they investigate the mysterious death of 
  a tourist. 7/8
 DTEND:20240925T200500Z
-DTSTAMP:20240924T050841Z
+DTSTAMP:20240925T050829Z
 DTSTART:20240925T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 13\, Episode 7
-UID:b8c099e9-c7b6-4fd4-81da-04f2d3beb3ab
+UID:1516c584-33b8-4b6b-895c-0d882cc9e3c3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:In a world where appearance is everything\, DI Max Arnold has 
@@ -111,11 +50,11 @@ DESCRIPTION:In a world where appearance is everything\, DI Max Arnold has
  ome. The investigation reveals that there was more to his business than m
  eets the eye... 7/8
 DTEND:20240925T210000Z
-DTSTAMP:20240924T050841Z
+DTSTAMP:20240925T050829Z
 DTSTART:20240925T200500Z
 SEQUENCE:0
 SUMMARY:BBC First: The Chelsea Detective - A Crime of Passion\, Part 1
-UID:4b75d609-69c0-4257-bee8-35c76361f88e
+UID:10eca47e-d9d0-47fa-8637-ce4c3f07f115
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:This spin-off from Death in Paradise follows DI Humphrey Goodm
@@ -126,11 +65,11 @@ DESCRIPTION:This spin-off from Death in Paradise follows DI Humphrey Goodm
  targets three businesses\, bizarrely invoking the Three Little Pigs fable
  . Meanwhile\, Martha has some serious thinking to do. 5/6
 DTEND:20240926T180000Z
-DTSTAMP:20240924T050842Z
+DTSTAMP:20240925T050829Z
 DTSTART:20240926T165000Z
 SEQUENCE:0
 SUMMARY:BBC First: Beyond Paradise - Series 1\, Episode 5
-UID:757db109-6d28-43a5-bf03-c0c9b3e21720
+UID:7a9a4fb5-89e3-42a9-91f3-687764124f9e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -139,11 +78,11 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  discovery of statues made from the bodies of naked women leads Murdoch to
   suspect a sequential killer who knew the victims. 4/18
 DTEND:20240926T190000Z
-DTSTAMP:20240924T050842Z
+DTSTAMP:20240925T050829Z
 DTSTART:20240926T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - Series 9\, Episode 4
-UID:461603a7-27ab-465e-94b4-79ab65c76265
+UID:0abda23c-1565-4488-a6cb-162d3d477a0c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Hope Street celebrates the warm hearted and good humoured peop
@@ -156,11 +95,11 @@ DESCRIPTION:Hope Street celebrates the warm hearted and good humoured peop
  Devine - and he's far from happy about it. Nicole tries to live with her 
  all-consuming guilt. 9/15
 DTEND:20240926T200000Z
-DTSTAMP:20240924T050842Z
+DTSTAMP:20240925T050829Z
 DTSTART:20240926T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Hope Street - Series 3\, Episode 9
-UID:18ead738-8a27-4aae-83da-3fc81d8b42d2
+UID:3fe8c86f-1119-47d5-8732-2fc17b56a241
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:In Edinburgh's murky underbelly\, DS Rebus is drawn into a vio
@@ -169,11 +108,11 @@ DESCRIPTION:In Edinburgh's murky underbelly\, DS Rebus is drawn into a vio
  ware that the Cafferty and Christie rivalry is viciously escalating\, wit
  h Michael at its heart.  4/6
 DTEND:20240926T210000Z
-DTSTAMP:20240924T050842Z
+DTSTAMP:20240925T050829Z
 DTSTART:20240926T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: Rebus - Series 1\, Episode 4
-UID:191ff98d-2251-42d7-a640-d18aac2de999
+UID:3cfa13cf-aac5-4713-9ab3-b8eedd4738fa
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:This spin-off from Death in Paradise follows DI Humphrey Goodm
@@ -184,11 +123,11 @@ DESCRIPTION:This spin-off from Death in Paradise follows DI Humphrey Goodm
  e suspect was locked up in a police cell at the time. It's up to Esther t
  o rally a devastated Humphrey and solve this impossible crime. 6/6
 DTEND:20240927T180000Z
-DTSTAMP:20240924T050843Z
+DTSTAMP:20240925T050829Z
 DTSTART:20240927T165000Z
 SEQUENCE:0
 SUMMARY:BBC First: Beyond Paradise - Series1\, Episode 6
-UID:16817b09-5181-4bb5-8505-5f86fcf3f461
+UID:a2806f78-83bd-450c-9b6e-425117271a11
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -197,11 +136,11 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  st the clock\, Murdoch must stop a secret space program that could incite
   war between the U.S. and Canada. 5/18
 DTEND:20240927T190000Z
-DTSTAMP:20240924T050843Z
+DTSTAMP:20240925T050829Z
 DTSTART:20240927T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - Series 9\, Episode 5
-UID:e39aedec-7c5b-45dc-a1fc-468aab8406c5
+UID:4d00f384-a9ba-4a04-9bff-7eba067c3676
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Top British spy Sylvia Fox is in Italy for her niece's wedding
@@ -214,11 +153,11 @@ DESCRIPTION:Top British spy Sylvia Fox is in Italy for her niece's wedding
   is found in the lake\, Riva is astonished to discover Sylvia already ons
  ite. 2/3
 DTEND:20240927T210000Z
-DTSTAMP:20240924T050843Z
+DTSTAMP:20240925T050829Z
 DTSTART:20240927T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Signora Volpe - Series 2\, Episode 2
-UID:0946d5aa-e3c7-43e9-9d0a-811503cb79ec
+UID:a2c24852-7726-4d87-b655-8f870e1bce94
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The investigations of Sister Boniface of St Vincent's Convent 
@@ -226,11 +165,11 @@ DESCRIPTION:The investigations of Sister Boniface of St Vincent's Convent
  ister Boniface and team try to discover who planted the deadly scorpion d
  uring the filming of a crime drama which leaves one of the cast dead. 1/8
 DTEND:20240928T180000Z
-DTSTAMP:20240924T050843Z
+DTSTAMP:20240925T050829Z
 DTSTART:20240928T170000Z
 SEQUENCE:0
 SUMMARY:BBC First: Sister Boniface Mysteries - Never Too Deadly to Die
-UID:914a8c78-d933-4075-a5d0-990322f6fdb0
+UID:2f670eb3-829e-46cd-b5ed-652339f2b9a3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Gently and Bacchus investigate the murder of a well-known left
@@ -239,11 +178,11 @@ DESCRIPTION:Gently and Bacchus investigate the murder of a well-known left
  n and tests him to his core. When the team faces mortal danger\, how will
   they survive? 2/2
 DTEND:20240928T200000Z
-DTSTAMP:20240924T050843Z
+DTSTAMP:20240925T050829Z
 DTSTART:20240928T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: Inspector George Gently - Gently and the New Age
-UID:4cb36b55-48ee-4147-89d4-20d74f09fc34
+UID:1416236d-c029-45ba-a5f0-239f9488f182
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Stephen Tompkinson and Andrea Lowe star as the tenacious and s
@@ -253,11 +192,11 @@ DESCRIPTION:Stephen Tompkinson and Andrea Lowe star as the tenacious and s
  halet in a remote village\, Banks and his team are initially confronted b
  y an overwhelming number of leads. Part 1/2. 3/6
 DTEND:20240928T210000Z
-DTSTAMP:20240924T050843Z
+DTSTAMP:20240925T050829Z
 DTSTART:20240928T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: DCI Banks - Piece of My Heart: Part 1
-UID:6140643f-8580-476d-9a93-eefcb0f94935
+UID:692e246d-308a-4f27-b55b-94f0a66f9612
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Judith\, Suzie and Becks start an investigation. To assist wit
@@ -268,11 +207,11 @@ DESCRIPTION:Judith\, Suzie and Becks start an investigation. To assist wit
  . After uncovering key evidence\, the trio must race against time to stop
   the killer. 2/4
 DTEND:20240929T180000Z
-DTSTAMP:20240924T050844Z
+DTSTAMP:20240925T050829Z
 DTSTART:20240929T170000Z
 SEQUENCE:0
 SUMMARY:BBC First: The Marlow Murder Club - Series 1\, Episode 2
-UID:f3b3c461-069e-47af-80bb-268c6fafb611
+UID:becafb9e-612a-415e-b797-3d05e78226a6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Dutch detective Van Der Valk is re-imagined in contemporary Am
@@ -281,11 +220,11 @@ DESCRIPTION:Dutch detective Van Der Valk is re-imagined in contemporary Am
  have to work out whether it was sexual or religious\, then her twin shows
   up and they have to figure out which twin was really killed. 4/6
 DTEND:20240929T190000Z
-DTSTAMP:20240924T050844Z
+DTSTAMP:20240925T050829Z
 DTSTART:20240929T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: Van Der Valk - Only in Amsterdam\, Part 2
-UID:f455e6bd-7b72-47cb-9a62-8549e3e61abe
+UID:2d669ad2-8556-4bf5-80f9-72695c19d460
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:In Edinburgh's murky underbelly\, DS Rebus is drawn into a vio
@@ -294,11 +233,11 @@ DESCRIPTION:In Edinburgh's murky underbelly\, DS Rebus is drawn into a vio
  has John\, while Darryl Christie tries retaliation\, using Siobhan to hel
  p with his plan.  5/6
 DTEND:20240929T200000Z
-DTSTAMP:20240924T050844Z
+DTSTAMP:20240925T050829Z
 DTSTART:20240929T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Rebus - Series 1\, Episode 5
-UID:e74f1a84-1f18-40cc-8ab4-1f21cd7570a4
+UID:c4f865b3-e7c2-4467-9a2d-6c44f811612d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The harrowing true story of former journalist-turned-psycholog
@@ -307,11 +246,11 @@ DESCRIPTION:The harrowing true story of former journalist-turned-psycholog
  killer the Station Strangler\; a serial murderer who has left a trail of 
  22 dead boys in his wake. 1/11
 DTEND:20240929T210000Z
-DTSTAMP:20240924T050844Z
+DTSTAMP:20240925T050829Z
 DTSTART:20240929T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: Catch Me a Killer - The Station Strangler: Part 1
-UID:e8606f36-b2b5-4335-ad28-f9c473011518
+UID:6fa48a43-e3c3-4ee6-abf9-291aa0ef1e51
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Humphrey and his team are baffled by a set of reverse burglari
@@ -322,11 +261,11 @@ DESCRIPTION:Humphrey and his team are baffled by a set of reverse burglari
  r only credible suspect being Santa it's a race against time to find the 
  real culprit in time for Christmas.
 DTEND:20240930T180000Z
-DTSTAMP:20240924T050844Z
+DTSTAMP:20240925T050829Z
 DTSTART:20240930T165000Z
 SEQUENCE:0
 SUMMARY:BBC First: Beyond Paradise - Christmas Special 2023 - Episode 1
-UID:7e8d6160-47c1-4b67-9c74-f60b2901cab6
+UID:c0099dbd-2cff-46fb-8a74-85b2d2938238
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -336,11 +275,11 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  rackenreid hosts a visit from radical temperance advocate Carrie Nation. 
  6/18
 DTEND:20240930T190000Z
-DTSTAMP:20240924T050844Z
+DTSTAMP:20240925T050829Z
 DTSTART:20240930T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - Series 9\, Episode 6
-UID:1d88cdda-e576-4035-917f-99a6bc5a7720
+UID:05688bf8-21ca-4ae9-a98e-4db71ac1a406
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The investigations of Sister Boniface of St Vincent's Convent 
@@ -348,11 +287,11 @@ DESCRIPTION:The investigations of Sister Boniface of St Vincent's Convent
  he team try and uncover the death behind the stabbing of the owner of Sal
  em's Dolls. 2/8
 DTEND:20240930T200000Z
-DTSTAMP:20240924T050844Z
+DTSTAMP:20240925T050829Z
 DTSTART:20240930T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Sister Boniface Mysteries - House of Misfit Dolls
-UID:77b7c6a3-7998-40aa-855b-c27aa28f818c
+UID:8e1e8d73-0dfd-43f6-ac33-2c759355fd61
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Hope Street celebrates the warm hearted and good humoured peop
@@ -365,11 +304,11 @@ DESCRIPTION:Hope Street celebrates the warm hearted and good humoured peop
  Devine - and he's far from happy about it. Nicole tries to live with her 
  all-consuming guilt. 9/15
 DTEND:20240930T205500Z
-DTSTAMP:20240924T050844Z
+DTSTAMP:20240925T050829Z
 DTSTART:20240930T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: Hope Street - Series 3\, Episode 9
-UID:bdedba0a-fcbe-46f8-bc14-b42253e923de
+UID:0e020a7b-c1d9-4b88-bf97-64073f66936e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Every dead body has its secrets and the forensic pathologists 
@@ -378,11 +317,11 @@ DESCRIPTION:Every dead body has its secrets and the forensic pathologists
   of a man found dead on the shore of the Thames\, while the life of a dis
  gruntled criminology professor begins to unravel. 3/10
 DTEND:20240930T220000Z
-DTSTAMP:20240924T050844Z
+DTSTAMP:20240925T050829Z
 DTSTART:20240930T205500Z
 SEQUENCE:0
 SUMMARY:BBC First: Silent Witness - Grievance Culture\, Part 1
-UID:ab757478-2d6f-4ef1-9a8d-d4e504cac0d5
+UID:65f41a82-0b7d-4e5f-859c-74392ed25247
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:This spin-off from Death in Paradise follows DI Humphrey Goodm
@@ -393,11 +332,11 @@ DESCRIPTION:This spin-off from Death in Paradise follows DI Humphrey Goodm
   in Humphrey to play a detective\, but the fictional crime becomes real w
  hen the amateur murder victim gets a real knife in his back. 1/6
 DTEND:20241001T180000Z
-DTSTAMP:20240924T050846Z
+DTSTAMP:20240925T050829Z
 DTSTART:20241001T165000Z
 SEQUENCE:0
 SUMMARY:BBC First: Beyond Paradise - Series 2\, Episode 1
-UID:8a8615c1-3ec0-4197-bd53-e21d53c16c59
+UID:2bd74001-2f85-40df-8908-4340109b6dbb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -406,11 +345,11 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  ites with a childhood acquaintance to investigate a series of deaths of p
  eople whom they all met in one outdoor expedition in their youth. 7/18
 DTEND:20241001T190000Z
-DTSTAMP:20240924T050846Z
+DTSTAMP:20240925T050829Z
 DTSTART:20241001T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - Series 9\, Episode 7
-UID:04cb496d-6ba5-47fc-ae60-1dafdb7adc52
+UID:b47e4717-1333-407c-8493-b81c52e22828
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Judith\, Suzie and Becks start an investigation. To assist wit
@@ -420,11 +359,11 @@ DESCRIPTION:Judith\, Suzie and Becks start an investigation. To assist wit
  icially brought in to help the police investigation. They uncover an impo
  rtant connection between the murders\, but can they stop the killer? 3/4
 DTEND:20241001T200000Z
-DTSTAMP:20240924T050846Z
+DTSTAMP:20240925T050829Z
 DTSTART:20241001T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: The Marlow Murder Club - Series 1\, Episode 3
-UID:d370e050-8ae4-4038-bfdc-a0ee87015eb9
+UID:32829edb-968b-4297-8098-832f72a995d0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Top British spy Sylvia Fox is in Italy for her niece's wedding
@@ -437,10 +376,64 @@ DESCRIPTION:Top British spy Sylvia Fox is in Italy for her niece's wedding
   is found in the lake\, Riva is astonished to discover Sylvia already ons
  ite. 2/3
 DTEND:20241001T220000Z
-DTSTAMP:20240924T050846Z
+DTSTAMP:20240925T050829Z
 DTSTART:20241001T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: Signora Volpe - Series 2\, Episode 2
-UID:facda62c-c9bf-4bf6-a2fb-8e20459a566a
+UID:0a60ee93-cfa4-4647-8c83-fb776556eb12
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This spin-off from Death in Paradise follows DI Humphrey Goodm
+ an and his fiancée\, Martha\, as they leave London to start a new life on
+  the Devon coast. Humphrey takes up the vacant position of Detective Insp
+ ector at Shipton Abbott police station\, a slightly antiquated outpost of
+  the Devon & Cornwall Police district.\n\nWhen an amateur psychic's unset
+ tling predictions for a grieving woman's future start to come true\, Hump
+ hrey must uncover the truth before it's too late. 2/6
+DTEND:20241002T180000Z
+DTSTAMP:20240925T050829Z
+DTSTART:20241002T165000Z
+SEQUENCE:0
+SUMMARY:BBC First: Beyond Paradise - Series 2\, Episode 2
+UID:79d9d859-0392-4b69-a911-9badec7d2c4d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
+ team investigate the gruesome killings and murders using the most sophist
+ icated techniques that were unheard of in the late 1890s.\n\nA bad event 
+ happens to a young opium smoker. 8/18
+DTEND:20241002T190000Z
+DTSTAMP:20240925T050829Z
+DTSTART:20241002T180000Z
+SEQUENCE:0
+SUMMARY:BBC First: Murdoch Mysteries - Series 9\, Episode 8
+UID:0e4748f4-02b0-4919-a4d0-30d536950da6
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
+ tish inspector who is assigned to investigate crime on the paradise islan
+ d of Saint-Marie in the Caribbean.\n\nIt's the team's most confounding pu
+ zzle yet when a passenger disappears from a flight to Dominica\, only to 
+ be found back in Saint Marie - murdered. 8/8
+DTEND:20241002T200500Z
+DTSTAMP:20240925T050829Z
+DTSTART:20241002T190000Z
+SEQUENCE:0
+SUMMARY:BBC First: Death in Paradise - Series 13\, Episode 8
+UID:7ff2aada-eb82-4f78-837a-15aeddc2c459
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:In a world where appearance is everything\, DI Max Arnold has 
+ a keen eye for detail and isn't afraid to delve inside Chelsea's hidden n
+ ooks and crannies in order to crack a case.\n\nA woman matching Sophie's 
+ description suggests that she was part of Jack's drug dealing. When the p
+ olice search her house she cracks under the pressure and reveals more inf
+ ormation. 8/8
+DTEND:20241002T210500Z
+DTSTAMP:20240925T050829Z
+DTSTART:20241002T200500Z
+SEQUENCE:0
+SUMMARY:BBC First: The Chelsea Detective - A Crime of Passion\, Part 2
+UID:6b9612e3-ded9-464f-9683-475c1d16e802
 END:VEVENT
 END:VCALENDAR
