@@ -5,75 +5,15 @@ X-WR-CALNAME:BBC First TV Guide
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
  tish inspector who is assigned to investigate crime on the paradise islan
- d of Saint-Marie in the Caribbean.\n\nDI Goodman and his team investigate
-  the murder of a millionaire philanthropist who was found dead on his own
-  yacht while the only suspects were all SCUBA diving on the reef below. 1
- /8
-DTEND:20241024T180000Z
-DTSTAMP:20241024T050853Z
-DTSTART:20241024T165500Z
-SEQUENCE:0
-SUMMARY:BBC First: Death in Paradise - Series 5\, Episode 1
-UID:198caa4b-8384-4113-a78e-090dbfc7c87c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
- team investigate the gruesome killings and murders using the most sophist
- icated techniques that were unheard of in the late 1890s.\n\nDetective Mu
- rdoch and Dr. Ogden investigate the poisoning of a philandering businessm
- an\; Dr. Rebecca James has suspicions about a fellow medical student's su
- icide. 5/18
-DTEND:20241024T190000Z
-DTSTAMP:20241024T050853Z
-DTSTART:20241024T180000Z
-SEQUENCE:0
-SUMMARY:BBC First: Murdoch Mysteries - Series 10\, Episode 5
-UID:0893b4d6-603b-42ed-8dbc-222f4795f872
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Hope Street celebrates the warm hearted and good humoured peop
- le of a beautiful\, fictional town in Northern Ireland as they build a fu
- ture together rather than dwelling on the differences of the past. Set in
-  the fictional town of Port Devine on the Northern Ireland coast\, it foc
- uses on Port Devine's police department and the mysterious arrival of Eng
- lish Detective Constable Leila Hussain\, the first Muslim police officer 
- in the town's history.\n\nWhen a taxi is burnt out\, Finn worries that Or
- ganised Crime is coming to town in the shape of ex-con Aidan Hunter. The 
- truth about Aidan is far more shocking. 13/15
-DTEND:20241024T200000Z
-DTSTAMP:20241024T050853Z
-DTSTART:20241024T190000Z
-SEQUENCE:0
-SUMMARY:BBC First: Hope Street - Series 3\, Episode 13
-UID:7f151071-0198-406a-94d7-1e9e9e9b93a2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:When Harriet "Harry" Wild becomes the victim of a mugging\, sh
- e goes to stay with her son\, Charlie\, a senior detective in the Gardai.
-  Realising Charlie's latest murder investigation bears striking similarit
- ies to an obscure Elizabethan play\, she offers her help. When that offer
-  is rejected\, Harry decides she will find the killer herself to prove sh
- e was right.\n\nA rival private detective is hired by head chef Daryl aft
- er his girlfriend is decapitated and her head served up on a platter. 2/6
-DTEND:20241024T210500Z
-DTSTAMP:20241024T050853Z
-DTSTART:20241024T200000Z
-SEQUENCE:0
-SUMMARY:BBC First: Harry Wild - Too Many Harrys Spoil the Murder
-UID:18e68a65-0626-44d3-9431-b19621a2837d
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
- tish inspector who is assigned to investigate crime on the paradise islan
  d of Saint-Marie in the Caribbean.\n\nDI Goodman and the team are baffled
   when a young model is strangled in the middle of a fashion show and all 
  of the suspects have seemingly concrete alibis. 3/8
 DTEND:20241025T180000Z
-DTSTAMP:20241024T050853Z
+DTSTAMP:20241025T050947Z
 DTSTART:20241025T165500Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 5\, Episode 3
-UID:ec825e0a-c1b1-4d7c-ba26-13643daf7677
+UID:04e83c1d-259b-4fb7-be1b-ddca3d54db41
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -82,11 +22,11 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  nvestigates the strange death of a footballer\, Brackenreid gets caught u
  p in the team's run to the Olympics. 6/18
 DTEND:20241025T190000Z
-DTSTAMP:20241024T050853Z
+DTSTAMP:20241025T050947Z
 DTSTART:20241025T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - Series 10\, Episode 6
-UID:a64e0e90-690d-42fc-a054-a18fc1c4c135
+UID:144c8ba8-5fb4-4f02-b41f-666e9cb36112
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:When Harriet "Harry" Wild becomes the victim of a mugging\, sh
@@ -98,22 +38,22 @@ DESCRIPTION:When Harriet "Harry" Wild becomes the victim of a mugging\, sh
   his throat cut in the middle of a scene\, Harry and Fergus are tasked by
   the put-upon producer to find the culprit as soon as possible. 3/6
 DTEND:20241025T200000Z
-DTSTAMP:20241024T050853Z
+DTSTAMP:20241025T050947Z
 DTSTART:20241025T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Harry Wild - Lights\, Camera\, Murder
-UID:b2acd7ee-e5c6-45ef-ba01-a171e3135d31
+UID:d3298641-2fc8-46de-ae26-ec63933cacee
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Reeling from her discovery about the past\, Ember offers to he
  lp Riz investigate the Amy Knightly case in the hope of finding out what 
  Riz knows. 2/4
 DTEND:20241025T212000Z
-DTSTAMP:20241024T050853Z
+DTSTAMP:20241025T050947Z
 DTSTART:20241025T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: The Jetty - Series 1\, Episode 2
-UID:a3c462a8-cc7e-49b1-bf73-b19af9359dee
+UID:b6cbfaaf-de3a-4e54-9aa3-bd355320d826
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The investigations of Sister Boniface of St Vincent's Convent 
@@ -121,11 +61,11 @@ DESCRIPTION:The investigations of Sister Boniface of St Vincent's Convent
  he Nuns are excited to be involved in a religious tv show but a murder di
  srupts proceedings. 5/8
 DTEND:20241026T180000Z
-DTSTAMP:20241024T050853Z
+DTSTAMP:20241025T050948Z
 DTSTART:20241026T170000Z
 SEQUENCE:0
 SUMMARY:BBC First: Sister Boniface Mysteries - How to Murder a Tune
-UID:cfdcea6d-e573-402f-999e-ff75c03748ac
+UID:d172998b-8078-45fd-a4d3-c3985df03ff2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The Brokenwood Mysteries is set in a seemingly quiet country t
@@ -134,11 +74,11 @@ DESCRIPTION:The Brokenwood Mysteries is set in a seemingly quiet country t
  in the bush on a stag trip. But the groom-to-be never comes back - he was
   shot through the head. 4/4
 DTEND:20241026T200000Z
-DTSTAMP:20241024T050853Z
+DTSTAMP:20241025T050948Z
 DTSTART:20241026T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: The Brokenwood Mysteries - Case Four: Hunting the Stag
-UID:8d6b33e2-ee3e-4540-8651-40020d4a24a5
+UID:0af5dff5-f829-4c56-983f-e91c36793f68
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Fresh out of Glasgow Veterinary College James Herriot follows 
@@ -146,11 +86,11 @@ DESCRIPTION:Fresh out of Glasgow Veterinary College James Herriot follows
  d Helen look forward to their future\, but stepping in to help new farmer
  s might have unforeseen consequences. 4/7
 DTEND:20241026T210000Z
-DTSTAMP:20241024T050853Z
+DTSTAMP:20241025T050948Z
 DTSTART:20241026T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: All Creatures Great and Small - By the Book
-UID:61c563fb-0496-4604-809c-a3b72aeb66b5
+UID:1c36a4d0-c10d-49a6-9658-40cc5155b64c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:When the death of a local oil magnate stuns Aberdeen\, trainee
@@ -158,11 +98,11 @@ DESCRIPTION:When the death of a local oil magnate stuns Aberdeen\, trainee
  he ship is found on the shore\, the team are convinced that a ketamine sm
  uggle is occurring. Mallick makes a shocking discovery. 2/3
 DTEND:20241027T190000Z
-DTSTAMP:20241024T050854Z
+DTSTAMP:20241025T050948Z
 DTSTART:20241027T174000Z
 SEQUENCE:0
 SUMMARY:BBC First: Granite Harbour - Series 2\, Episode 2
-UID:99a84389-d0c2-44d0-8b83-d0f457df400e
+UID:a0850a83-2e14-480f-ae0a-8d6748b1c1c6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Dutch detective Van Der Valk is re-imagined in contemporary Am
@@ -171,21 +111,21 @@ DESCRIPTION:Dutch detective Van Der Valk is re-imagined in contemporary Am
  igate the grisly and theatrical murder of a solicitor. A cryptic note dis
  covered within her jacket alludes to further murders. 2/6
 DTEND:20241027T200000Z
-DTSTAMP:20241024T050854Z
+DTSTAMP:20241025T050948Z
 DTSTART:20241027T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Van Der Valk - Plague on Amsterdam: Part 2
-UID:6f382fa9-c1a5-4b4e-ad75-d19bfe41c198
+UID:5aa485ba-d0a9-4470-becd-e10dcd177312
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Ember wrestles with the emerging truth about Mack. As the wall
  s close in on her\, Ember reaches breaking point. 3/4
 DTEND:20241027T211500Z
-DTSTAMP:20241024T050854Z
+DTSTAMP:20241025T050948Z
 DTSTART:20241027T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: The Jetty - Series 1\, Episode 3
-UID:b6fc0910-0af9-4ab4-a5f8-412a74911c81
+UID:57895e81-9e31-4aff-90ae-ecd2788c0197
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The harrowing true story of former journalist-turned-psycholog
@@ -194,11 +134,11 @@ DESCRIPTION:The harrowing true story of former journalist-turned-psycholog
  ives Nick and Solomon in trying to get a confession out of a suspect in t
  he next forty-eight hours before he appears in court. 5/11
 DTEND:20241027T221500Z
-DTSTAMP:20241024T050854Z
+DTSTAMP:20241025T050948Z
 DTSTART:20241027T211500Z
 SEQUENCE:0
 SUMMARY:BBC First: Catch Me a Killer - Donnybrook
-UID:3a45b299-3dc3-41ca-96ba-5f1ee2f7a745
+UID:5a81efc6-1ccf-4a92-b9b5-9225a29f01b3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The Brokenwood Mysteries is set in a seemingly quiet country t
@@ -207,11 +147,11 @@ DESCRIPTION:The Brokenwood Mysteries is set in a seemingly quiet country t
  in the bush on a stag trip. But the groom-to-be never comes back - he was
   shot through the head. 4/4
 DTEND:20241028T190000Z
-DTSTAMP:20241024T050854Z
+DTSTAMP:20241025T050948Z
 DTSTART:20241028T170000Z
 SEQUENCE:0
 SUMMARY:BBC First: The Brokenwood Mysteries - Case Four: Hunting the Stag
-UID:d5651322-732b-4f7d-9e9b-bc25cd2f491c
+UID:936c66ae-9708-404d-9181-327de59a633b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -220,11 +160,11 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  ects a connection between dead men found with lipstick smudges on their f
  aces and constable Crabtree's burlesque dancer sweetheart. 7/18
 DTEND:20241028T200000Z
-DTSTAMP:20241024T050854Z
+DTSTAMP:20241025T050948Z
 DTSTART:20241028T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - Series 10\, Episode 7
-UID:5c30bcab-370b-40df-b762-e9d2a075c85c
+UID:1b47c9a9-cf22-4bd9-86ec-5ed92b907d84
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The investigations of Sister Boniface of St Vincent's Convent 
@@ -232,11 +172,11 @@ DESCRIPTION:The investigations of Sister Boniface of St Vincent's Convent
   village cricket match provides an unlikely backdrop for embezzlement and
   murder. 6/8
 DTEND:20241028T210000Z
-DTSTAMP:20241024T050854Z
+DTSTAMP:20241025T050948Z
 DTSTART:20241028T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: Sister Boniface Mysteries - It's Just Not Cricket
-UID:c32a44f3-e028-45da-ac27-67a35520f1d6
+UID:94e8eb31-75d8-44e6-86fb-90753b4e66ed
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Hope Street celebrates the warm hearted and good humoured peop
@@ -249,11 +189,11 @@ DESCRIPTION:Hope Street celebrates the warm hearted and good humoured peop
  ganised Crime is coming to town in the shape of ex-con Aidan Hunter. The 
  truth about Aidan is far more shocking. 13/15
 DTEND:20241028T215500Z
-DTSTAMP:20241024T050854Z
+DTSTAMP:20241025T050948Z
 DTSTART:20241028T210000Z
 SEQUENCE:0
 SUMMARY:BBC First: Hope Street - Series 3\, Episode 13
-UID:93d4861c-b6e7-46f2-ac38-bcc97f30dc20
+UID:441f2090-0bab-4cd0-9658-83d721aa5e46
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detectives uncover the mystery behind an unsolved murder - kno
@@ -261,11 +201,11 @@ DESCRIPTION:Detectives uncover the mystery behind an unsolved murder - kno
  rred by an unforeseen and devastating event involving her family life. 1/
  6
 DTEND:20241028T225500Z
-DTSTAMP:20241024T050854Z
+DTSTAMP:20241025T050948Z
 DTSTART:20241028T215500Z
 SEQUENCE:0
 SUMMARY:BBC First: Unforgotten - Series 5\, Episode 1
-UID:b0df7942-20ad-4a44-8a78-0a69aff7102a
+UID:5b3ffd15-5470-4c0a-a032-f411c292a909
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
@@ -275,11 +215,11 @@ DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
   of his new restaurant. Meanwhile\, Florence gives DI Goodman a lesson in
   love. 6/8
 DTEND:20241029T190000Z
-DTSTAMP:20241024T050854Z
+DTSTAMP:20241025T050949Z
 DTSTART:20241029T175000Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 5\, Episode 6
-UID:5080ef29-b15a-44e9-8727-fd79880860dd
+UID:d35413e3-030e-4894-84df-5fd1a26b59e4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -288,11 +228,11 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  Crabtree pretend a murdered witness is still alive in order to catch a ki
  ller. 8/18
 DTEND:20241029T200000Z
-DTSTAMP:20241024T050854Z
+DTSTAMP:20241025T050949Z
 DTSTART:20241029T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - Series 10\, Episode 8
-UID:394774e7-13a3-4b0c-8230-e700ed110a3d
+UID:669051c0-93cb-43dc-91ee-82c5d6e94b69
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:When the death of a local oil magnate stuns Aberdeen\, trainee
@@ -301,11 +241,11 @@ DESCRIPTION:When the death of a local oil magnate stuns Aberdeen\, trainee
  e innocent lives\, whilst the depth of various betrayals are finally reve
  aled. 3/3
 DTEND:20241029T211000Z
-DTSTAMP:20241024T050854Z
+DTSTAMP:20241025T050949Z
 DTSTART:20241029T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: Granite Harbour - Series 2\, Episode 3
-UID:20975272-548d-41d4-a980-29f8e57bcf6c
+UID:432ea94e-3a8e-4db9-98dd-f34ed2a7d211
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Antoine Verlaque\, Investigating Judge in Aix-en-Provence with
@@ -315,11 +255,11 @@ DESCRIPTION:Antoine Verlaque\, Investigating Judge in Aix-en-Provence with
  arby town of Éguilles and might be connected to the discovery of an older
   woman's body in a vineyard\, kilometres away. 3/3
 DTEND:20241029T231000Z
-DTSTAMP:20241024T050854Z
+DTSTAMP:20241025T050949Z
 DTSTART:20241029T211000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murder in Provence - Series 1\, Episode 3
-UID:9e9ba588-9d9b-4d65-93fb-f83310fb883c
+UID:2a6c8400-e46c-44c0-98c5-eee07a83c69e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
@@ -329,11 +269,11 @@ DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
  hile\, it's the day of JP's wedding - but will he make it to the alter? 8
  /8
 DTEND:20241030T190000Z
-DTSTAMP:20241024T050854Z
+DTSTAMP:20241025T050949Z
 DTSTART:20241030T175000Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 5\, Episode 8
-UID:fe1f0cf9-f35e-4198-b77b-0499ae4fd1e3
+UID:06440fca-6535-4b82-8870-1f32928a7529
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -342,11 +282,11 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  ves to apprehend a lecherous costumed criminal known as....The Lurker! Th
  en The Lurker's amorous encounters have escalated to murder! 9/18
 DTEND:20241030T200000Z
-DTSTAMP:20241024T050854Z
+DTSTAMP:20241025T050949Z
 DTSTART:20241030T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - Series 10\, Episode 9
-UID:d2303de1-a3ec-4270-a4b9-8edf0820d984
+UID:ac582bbd-072b-46e9-8546-b22b61e79268
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
@@ -355,11 +295,11 @@ DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
  tic for DI Richard Poole and the team are perplexed when a wife admits to
   killing her husband but there's no body. 4/8
 DTEND:20241030T210500Z
-DTSTAMP:20241024T050854Z
+DTSTAMP:20241025T050949Z
 DTSTART:20241030T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 1\, Episode 4
-UID:3ce2094f-8bc3-40c1-b866-32425a877141
+UID:f7929cdd-4844-4ea2-b355-02a7faff4cc0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The Brokenwood Mysteries is set in a seemingly quiet country t
@@ -368,11 +308,11 @@ DESCRIPTION:The Brokenwood Mysteries is set in a seemingly quiet country t
  in the bush on a stag trip. But the groom-to-be never comes back - he was
   shot through the head. 4/4
 DTEND:20241030T230500Z
-DTSTAMP:20241024T050854Z
+DTSTAMP:20241025T050949Z
 DTSTART:20241030T210500Z
 SEQUENCE:0
 SUMMARY:BBC First: The Brokenwood Mysteries - Case Four: Hunting the Stag
-UID:977432e7-3337-4e45-9b27-e58fabfc5c4f
+UID:fe7d0d7b-ed5a-4e20-b222-1c6f0151c727
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
@@ -382,11 +322,11 @@ DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
  ing committed suicide\, but Humphrey smells murder when her laptop can't 
  be found. 2/8
 DTEND:20241031T190000Z
-DTSTAMP:20241024T050855Z
+DTSTAMP:20241025T050949Z
 DTSTART:20241031T175500Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 6\, Episode 2
-UID:24d3ba12-b294-4a0f-8c35-163c9fee5614
+UID:e8fa3b20-886d-4239-89cd-3d21e3c4873d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -396,11 +336,11 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  lies. Murdoch and Ogden begin to suspect that Gillies may still be alive.
   10/18
 DTEND:20241031T200000Z
-DTSTAMP:20241024T050855Z
+DTSTAMP:20241025T050949Z
 DTSTART:20241031T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - Series 10\, Episode 10
-UID:8205caba-00c9-4f3c-a378-84a715cfcbc3
+UID:359602aa-fe4c-4ac4-aff5-fa1b713f440d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Hope Street celebrates the warm hearted and good humoured peop
@@ -413,11 +353,11 @@ DESCRIPTION:Hope Street celebrates the warm hearted and good humoured peop
  cole tells Clint that she's pregnant. The only problem is that Callum cou
  ld be the father. 14/15
 DTEND:20241031T210000Z
-DTSTAMP:20241024T050855Z
+DTSTAMP:20241025T050949Z
 DTSTART:20241031T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: Hope Street - Series 3\, Episode 14
-UID:3fd706c0-6b67-48f9-8f11-7839a3463a23
+UID:67389b14-3d41-457d-aba1-0e087def2f22
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:When Harriet "Harry" Wild becomes the victim of a mugging\, sh
@@ -429,10 +369,62 @@ DESCRIPTION:When Harriet "Harry" Wild becomes the victim of a mugging\, sh
   his throat cut in the middle of a scene\, Harry and Fergus are tasked by
   the put-upon producer to find the culprit as soon as possible. 3/6
 DTEND:20241031T220000Z
-DTSTAMP:20241024T050855Z
+DTSTAMP:20241025T050949Z
 DTSTART:20241031T210000Z
 SEQUENCE:0
 SUMMARY:BBC First: Harry Wild - Lights\, Camera\, Murder
-UID:9dd9c09e-4131-4a45-b539-42d67b960cbf
+UID:4f0f585e-bca6-4ec4-8654-77c572250bab
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
+ tish inspector who is assigned to investigate crime on the paradise islan
+ d of Saint-Marie in the Caribbean.\n\nThe president of the Saint Marie cr
+ icket club is found shot dead in the middle of the team's ground. As the 
+ sun rises over the island\, suspicion falls on his teammates. 4/8
+DTEND:20241101T190000Z
+DTSTAMP:20241025T050949Z
+DTSTART:20241101T175500Z
+SEQUENCE:0
+SUMMARY:BBC First: Death in Paradise - Series 6\, Episode 4
+UID:cb582252-9232-4ee6-8828-e951de398a0d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
+ team investigate the gruesome killings and murders using the most sophist
+ icated techniques that were unheard of in the late 1890s.\n\nWhile invest
+ igating the death of a championship show dog\, Detective Murdoch discover
+ s a hidden affection for canine companions. 11/18
+DTEND:20241101T200000Z
+DTSTAMP:20241025T050949Z
+DTSTART:20241101T190000Z
+SEQUENCE:0
+SUMMARY:BBC First: Murdoch Mysteries - Series 10\, Episode 11
+UID:65b3b271-e470-4099-a103-0fe3034f1aa3
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:When Harriet "Harry" Wild becomes the victim of a mugging\, sh
+ e goes to stay with her son\, Charlie\, a senior detective in the Gardai.
+  Realising Charlie's latest murder investigation bears striking similarit
+ ies to an obscure Elizabethan play\, she offers her help. When that offer
+  is rejected\, Harry decides she will find the killer herself to prove sh
+ e was right.\n\nHarry and Fergus are hired to work out how it's possible 
+ for a mystery writer to shoot himself in a locked panic room without a gu
+ n. The key to cracking the case comes from a very surprising source. 4/6
+DTEND:20241101T210500Z
+DTSTAMP:20241025T050949Z
+DTSTART:20241101T200000Z
+SEQUENCE:0
+SUMMARY:BBC First: Harry Wild - The Man Who Murdered Himself
+UID:1d4f132c-1704-49c3-908a-9bd04121ce89
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ember wrestles with the emerging truth about Mack. As the wall
+ s close in on her\, Ember reaches breaking point. 3/4
+DTEND:20241101T221500Z
+DTSTAMP:20241025T050949Z
+DTSTART:20241101T210500Z
+SEQUENCE:0
+SUMMARY:BBC First: The Jetty - Series 1\, Episode 3
+UID:6c1612a5-7ddf-46ce-a322-e1ffde5cd626
 END:VEVENT
 END:VCALENDAR
