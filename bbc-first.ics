@@ -5,70 +5,17 @@ X-WR-CALNAME:BBC First TV Guide
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
  tish inspector who is assigned to investigate crime on the paradise islan
- d of Saint-Marie in the Caribbean.\n\nDuring a game of beach volleyball\,
-  an insect bite lands Neville in hospital. His time on the ward takes a s
- hocking turn when a nurse takes her own life. 4/8
-DTEND:20241127T190000Z
-DTSTAMP:20241127T050929Z
-DTSTART:20241127T175500Z
-SEQUENCE:0
-SUMMARY:BBC First: Death in Paradise - Series 10\, Episode 4
-UID:3ee0f401-d99e-4990-ae8e-8ab8dee5f8b6
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
- team investigate the gruesome killings and murders using the most sophist
- icated techniques that were unheard of in the late 1890s.\n\nMurdoch inve
- stigates a death which may have been caused by a high-speed travel device
- . 10/12
-DTEND:20241127T200000Z
-DTSTAMP:20241127T050929Z
-DTSTART:20241127T190000Z
-SEQUENCE:0
-SUMMARY:BBC First: Murdoch Mysteries - F.L.A.S.H.!
-UID:466b58ae-91aa-4e62-ac5f-946fb14253a2
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
- tish inspector who is assigned to investigate crime on the paradise islan
- d of Saint-Marie in the Caribbean.\n\nCarnival comes to Saint-Marie and R
- ichard sees the dark side of show business when a comeback concert ends i
- n the most public of murders. 7/8
-DTEND:20241127T210500Z
-DTSTAMP:20241127T050929Z
-DTSTART:20241127T200000Z
-SEQUENCE:0
-SUMMARY:BBC First: Death in Paradise - Series 1\, Episode 7
-UID:f715633a-7549-4a32-9445-cc44f5d6efe8
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Brokenwood Mysteries is set in a seemingly quiet country t
- own where the town's newest resident\, Mike Shepherd\, finds that murder 
- lurks in even the most homely location.\n\nShepherd and Jared attend a co
- untry concert by Shepherd's favorite musician\, Holly Collins\, and she a
- nnounces that it will be her final show. When she is found electrocuted t
- he next morning in her hotel bathtub\, it appears to be a suicide. 4/4
-DTEND:20241127T230000Z
-DTSTAMP:20241127T050929Z
-DTSTART:20241127T210500Z
-SEQUENCE:0
-SUMMARY:BBC First: The Brokenwood Mysteries - Blood Pink
-UID:dc3f09d5-b93b-4291-bee9-fa186fd7d899
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
- tish inspector who is assigned to investigate crime on the paradise islan
  d of Saint-Marie in the Caribbean.\n\nThe team have their work cut out in
   this dramatic conclusion to the two-parter. Neville must solve a mystery
   from the past that unlocks the truth of who murdered the concert pianist
   and why. Help is at hand\, though\, with the return of a former sergeant
  . 6/8
 DTEND:20241128T190000Z
-DTSTAMP:20241127T050929Z
+DTSTAMP:20241128T050924Z
 DTSTART:20241128T175500Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 10\, Episode 6
-UID:c0080602-614d-42a6-bb96-48ab1996b742
+UID:6aecf79f-51d7-4b46-a801-d11e531c76f0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -77,11 +24,11 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  igating the violent death of a cricket player\, Murdoch and Brackenreid e
  ncounter unsportsmanlike behaviour. 11/12
 DTEND:20241128T200000Z
-DTSTAMP:20241127T050929Z
+DTSTAMP:20241128T050924Z
 DTSTART:20241128T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - Biffers and Blockers
-UID:8043bfd6-17e2-4a41-b25f-3a38fa76aaca
+UID:edf9c8e2-e298-4092-a23c-0c206eb41613
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Professor Jasper Tempest\, a genius Cambridge University crimi
@@ -89,11 +36,11 @@ DESCRIPTION:Professor Jasper Tempest\, a genius Cambridge University crimi
  essor T becomes embroiled in a hostage situation\, but his unconventional
   negotiating tactics do not go down well with the police. 3/6
 DTEND:20241128T210000Z
-DTSTAMP:20241127T050929Z
+DTSTAMP:20241128T050924Z
 DTSTART:20241128T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: Professor T - Tiger Tiger
-UID:12778f24-d8b1-47d2-afac-7dc734323245
+UID:3e8ed8e0-ef6b-43d2-9d72-a2f28c0ee234
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:A shy and enigmatic Detective Sergeant is partnered with a wil
@@ -102,11 +49,11 @@ DESCRIPTION:A shy and enigmatic Detective Sergeant is partnered with a wil
  h\, McDonald and Dodds are sucked into a mystery involving a priceless ar
  tefact\, the birth of the Blues and their own personal history. 1/3
 DTEND:20241128T230000Z
-DTSTAMP:20241127T050929Z
+DTSTAMP:20241128T050924Z
 DTSTART:20241128T210000Z
 SEQUENCE:0
 SUMMARY:BBC First: McDonald & Dodds - Jinxy Sings The Blues
-UID:6b44cf2e-8b47-4042-a0d1-de2000535bbc
+UID:a2443420-5df0-4808-95e4-e16b14a23a61
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
@@ -116,11 +63,11 @@ DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
  aren't as simple as they seem\, Neville determines to uncover the truth a
  nd unveil the real killer. 8/8
 DTEND:20241129T190000Z
-DTSTAMP:20241127T050929Z
+DTSTAMP:20241128T050924Z
 DTSTART:20241129T175000Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 10\, Episode 8
-UID:7ecc4efb-7a55-4d39-8b3b-599866515075
+UID:84e3d430-175c-48d6-b493-031053a3d702
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -129,11 +76,11 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  stigates when a statue of the Virgin Mary gifted to his church begins wee
  ping tears of blood. 12/12
 DTEND:20241129T200000Z
-DTSTAMP:20241127T050929Z
+DTSTAMP:20241128T050924Z
 DTSTART:20241129T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - Mary Wept
-UID:a212463c-379d-483f-8aba-2a614c92f669
+UID:ae6cd99d-2b0c-46d0-a320-eddbd95122b4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:A shy and enigmatic Detective Sergeant is partnered with a wil
@@ -142,11 +89,11 @@ DESCRIPTION:A shy and enigmatic Detective Sergeant is partnered with a wil
  's been missing for over 35 years\, their investigation brings them into 
  the dark heart of one of Bath's wealthiest families. 2/3
 DTEND:20241129T220000Z
-DTSTAMP:20241127T050929Z
+DTSTAMP:20241128T050924Z
 DTSTART:20241129T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: McDonald & Dodds - The Rule of Three
-UID:b43ab347-6d7d-46d2-b8b8-3360a2e67100
+UID:82293212-883d-4639-8aaf-e29a15685d4a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Fresh out of Glasgow Veterinary College James Herriot follows 
@@ -155,11 +102,11 @@ DESCRIPTION:Fresh out of Glasgow Veterinary College James Herriot follows
   the overly officious Mr Bosworth whilst up at Heston\, Helen is concerne
  d about the influence of Jenny's new friend. 2/7
 DTEND:20241130T190000Z
-DTSTAMP:20241127T050929Z
+DTSTAMP:20241128T050925Z
 DTSTART:20241130T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: All Creatures Great and Small - Holding the Baby
-UID:0808bfb4-fe4e-47b4-bb92-42063cd5839b
+UID:c5d82582-dfbb-4dc3-82c3-4db7656aa2fa
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The Brokenwood Mysteries is set in a seemingly quiet country t
@@ -169,11 +116,11 @@ DESCRIPTION:The Brokenwood Mysteries is set in a seemingly quiet country t
  ours'. But when Ray's wife Debbie is discovered dead under a giant foam s
  pider in a supposed film location of Mirklewood things get 'mirky'. 1/4
 DTEND:20241130T205500Z
-DTSTAMP:20241127T050929Z
+DTSTAMP:20241128T050925Z
 DTSTART:20241130T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: The Brokenwood Mysteries - The Black Widower
-UID:78bab083-4fbb-41d5-8560-1dfe920b56a2
+UID:0c047239-4c5e-448e-803e-087b8fe1aa4b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:No-nonsense police sergeant Catherine Cawood leads a team of d
@@ -181,11 +128,11 @@ DESCRIPTION:No-nonsense police sergeant Catherine Cawood leads a team of d
  rine's search for Tommy gains momentum when she receives a tip-off regard
  ing his whereabouts. 2/6
 DTEND:20241130T220000Z
-DTSTAMP:20241127T050929Z
+DTSTAMP:20241128T050925Z
 DTSTART:20241130T205500Z
 SEQUENCE:0
 SUMMARY:BBC First: Happy Valley - Series 1\, Episode 2
-UID:512ad130-73b5-40d2-aad1-fcfafce9c395
+UID:d0168c5c-8302-4756-a275-3f78e6e0bf5d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Antique dealer Jean White finds her life turned upside down wh
@@ -196,11 +143,11 @@ DESCRIPTION:Antique dealer Jean White finds her life turned upside down wh
  ronne\, a Dickens first edition of 'Our Mutual Friend' and threatening le
  tters feed into the tragedy. 4/7
 DTEND:20241201T190000Z
-DTSTAMP:20241127T050929Z
+DTSTAMP:20241128T050925Z
 DTSTART:20241201T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: The Madame Blanc Mysteries - Jackal
-UID:0b908b99-7350-4666-96be-7f22da603d7f
+UID:dbaa4d42-e82c-4c30-a6a5-2c25b53951bf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Dutch detective Van Der Valk is re-imagined in contemporary Am
@@ -210,22 +157,22 @@ DESCRIPTION:Dutch detective Van Der Valk is re-imagined in contemporary Am
   draws them into the murky world of drug smuggling before revealing a dee
  per\, darker personal tale of envy. 1/6
 DTEND:20241201T200000Z
-DTSTAMP:20241127T050929Z
+DTSTAMP:20241128T050925Z
 DTSTART:20241201T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Van Der Valk - Freedom in Amsterdam\, Part 1
-UID:f5bd66e3-56e0-4989-a3d7-12c17b9f7845
+UID:3e0ffa86-4c0a-4965-af23-05fed15250b6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:A politically pertinent thriller about a community torn apart 
  by two shocking killings.\n\nA politically pertinent thriller about a com
  munity torn apart by two shocking killings. 4/6
 DTEND:20241201T211500Z
-DTSTAMP:20241127T050929Z
+DTSTAMP:20241128T050925Z
 DTSTART:20241201T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: Sherwood - Series 2\, Episode 4
-UID:fc16ba40-5d38-44f8-b8eb-4c039b158853
+UID:aa8bc5cd-0591-4271-9c36-f97629c86661
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The harrowing true story of former journalist-turned-psycholog
@@ -234,11 +181,11 @@ DESCRIPTION:The harrowing true story of former journalist-turned-psycholog
  d a shooter responsible for randomly murdering tens of villagers in KZN. 
  10/11
 DTEND:20241201T221500Z
-DTSTAMP:20241127T050929Z
+DTSTAMP:20241128T050925Z
 DTSTART:20241201T211500Z
 SEQUENCE:0
 SUMMARY:BBC First: Catch Me a Killer - The Saloon Killer: Part 1
-UID:9a206a4d-71ff-4b6b-bbab-2363400b7ac2
+UID:2abe37ec-b908-47d4-9351-57c6e64ebea9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The Brokenwood Mysteries is set in a seemingly quiet country t
@@ -248,11 +195,11 @@ DESCRIPTION:The Brokenwood Mysteries is set in a seemingly quiet country t
  ours'. But when Ray's wife Debbie is discovered dead under a giant foam s
  pider in a supposed film location of Mirklewood things get 'mirky'. 1/4
 DTEND:20241202T190000Z
-DTSTAMP:20241127T050929Z
+DTSTAMP:20241128T050925Z
 DTSTART:20241202T170000Z
 SEQUENCE:0
 SUMMARY:BBC First: The Brokenwood Mysteries - The Black Widower
-UID:135690d5-e03d-47a7-937e-855b4d9b1f67
+UID:9463e1c0-0bc8-481a-b86e-eb4503efa474
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -262,11 +209,11 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
   also tasted the tainted ingredient - including Crabtree and Margaret Bra
  ckenreid. 13/12
 DTEND:20241202T200000Z
-DTSTAMP:20241127T050929Z
+DTSTAMP:20241128T050925Z
 DTSTART:20241202T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - Crabtree a la Carte
-UID:16fdde8a-450b-4ddd-b3a3-f3a2b1477be0
+UID:ef069e0c-def6-4ee5-8cc0-f0968ee72d34
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Fresh out of Glasgow Veterinary College James Herriot follows 
@@ -275,11 +222,11 @@ DESCRIPTION:Fresh out of Glasgow Veterinary College James Herriot follows
  nd Siegfried makes a promise to himself that he might struggle to keep. 3
  /7
 DTEND:20241202T210000Z
-DTSTAMP:20241127T050929Z
+DTSTAMP:20241128T050925Z
 DTSTART:20241202T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: All Creatures Great and Small - Homecoming
-UID:77bc8cde-2b86-46a2-8119-0901f9b9b43a
+UID:ff5a2c8f-0595-4a92-aeb9-5dea12cd4e8d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Professor Jasper Tempest\, a genius Cambridge University crimi
@@ -287,11 +234,11 @@ DESCRIPTION:Professor Jasper Tempest\, a genius Cambridge University crimi
  essor T becomes embroiled in a hostage situation\, but his unconventional
   negotiating tactics do not go down well with the police. 3/6
 DTEND:20241202T220000Z
-DTSTAMP:20241127T050929Z
+DTSTAMP:20241128T050925Z
 DTSTART:20241202T210000Z
 SEQUENCE:0
 SUMMARY:BBC First: Professor T - Tiger Tiger
-UID:f5203ede-b1bb-412b-8271-53c64167e7e7
+UID:12b8ff8d-30e2-490d-853f-cf0459ba1b12
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The sun-soaked\, scintillating beauty of Saint Marie is rocked
@@ -303,12 +250,12 @@ DESCRIPTION:The sun-soaked\, scintillating beauty of Saint Marie is rocked
   Christmas time by a baffling murder\, with a dazzling array of guest sta
  rs under suspicion. 2/2
 DTEND:20241203T190000Z
-DTSTAMP:20241127T050930Z
+DTSTAMP:20241128T050925Z
 DTSTART:20241203T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise: Christmas Special 2021 - Series 1\, 
  Episode 2
-UID:e2b94364-c0c8-4600-8ffe-c366669149a7
+UID:545b45d9-6c2b-4b3a-b359-c5a97c9f941b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -316,11 +263,11 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  icated techniques that were unheard of in the late 1890s.\n\nTheodore Roo
  sevelt sneaks into Canada for a hunting trip. 14/12
 DTEND:20241203T200000Z
-DTSTAMP:20241127T050930Z
+DTSTAMP:20241128T050925Z
 DTSTART:20241203T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - The Great White Moose
-UID:373e2384-c082-4fb1-bd3a-f8bbbadc1b4d
+UID:b8958410-eb06-4b2a-9ad0-686426eaa603
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Antique dealer Jean White finds her life turned upside down wh
@@ -331,11 +278,11 @@ DESCRIPTION:Antique dealer Jean White finds her life turned upside down wh
  hes two suspects. However\, Violet's attempted murder is just the tip of 
  the iceberg. 5/7
 DTEND:20241203T210000Z
-DTSTAMP:20241127T050930Z
+DTSTAMP:20241128T050925Z
 DTSTART:20241203T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: The Madame Blanc Mysteries - Fashion
-UID:2502279c-012b-4705-9318-0eda07d414d5
+UID:7884f31a-2e5c-40d3-b294-fe0f2d86399f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:After undergoing police training in an earlier career and her 
@@ -345,11 +292,11 @@ DESCRIPTION:After undergoing police training in an earlier career and her
  und Dolly's home she worries that she might be suffering from dementia\, 
  but Pearl's investigations lead to a very different conclusion. 5/6
 DTEND:20241203T220000Z
-DTSTAMP:20241127T050930Z
+DTSTAMP:20241128T050925Z
 DTSTART:20241203T210000Z
 SEQUENCE:0
 SUMMARY:BBC First: Whitstable Pearl - Hidden Treasures
-UID:43d3740d-8dc2-4a8a-950e-e0d803f7a68c
+UID:2e927bef-7819-4b4a-aa95-fe11871f2856
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
@@ -359,11 +306,11 @@ DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
   suspect with an alibi leaves the team with an impenetrable conundrum. 2/
  8
 DTEND:20241204T190000Z
-DTSTAMP:20241127T050930Z
+DTSTAMP:20241128T050925Z
 DTSTART:20241204T175500Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 11\, Episode 2
-UID:fbde8fda-961c-41bd-848d-994c8e2bb51f
+UID:49fc27ec-ef79-4f63-9706-b5f30707dfc2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -372,11 +319,11 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  stigates a murder surrounding vaudeville entertainers Harry and Al Jolson
  . Detective Watts learns more about his own family history. 15/12
 DTEND:20241204T200000Z
-DTSTAMP:20241127T050930Z
+DTSTAMP:20241128T050925Z
 DTSTART:20241204T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - Murdoch Schmurdoch
-UID:7fd03ddb-f7dd-4da4-bd06-54f1c1e9d8bc
+UID:5f165d2a-a9a0-4b08-9afb-1a805f80d940
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
@@ -385,11 +332,11 @@ DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
  r investigation when a piece of incriminating evidence is found at the sc
  ene of the crime. 8/8
 DTEND:20241204T210500Z
-DTSTAMP:20241127T050930Z
+DTSTAMP:20241128T050925Z
 DTSTART:20241204T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 1\, Episode 8
-UID:8cb21da0-16cb-4852-b2e2-39773b115a9e
+UID:1fd060d7-abaa-4642-bc95-091e504012ce
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The Brokenwood Mysteries is set in a seemingly quiet country t
@@ -399,10 +346,66 @@ DESCRIPTION:The Brokenwood Mysteries is set in a seemingly quiet country t
  ours'. But when Ray's wife Debbie is discovered dead under a giant foam s
  pider in a supposed film location of Mirklewood things get 'mirky'. 1/4
 DTEND:20241204T230000Z
-DTSTAMP:20241127T050930Z
+DTSTAMP:20241128T050925Z
 DTSTART:20241204T210500Z
 SEQUENCE:0
 SUMMARY:BBC First: The Brokenwood Mysteries - The Black Widower
-UID:49f009b0-d32f-44e4-949f-161bd574da50
+UID:ff775871-4a34-4f12-97d2-e3247ddb3bab
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
+ tish inspector who is assigned to investigate crime on the paradise islan
+ d of Saint-Marie in the Caribbean.\n\nFlorence's undercover role takes a 
+ dangerous turn when she finds herself in familiar surroundings\, amid a m
+ urder investigation. In a race against time\, can Neville solve the murde
+ r? 4/8
+DTEND:20241205T190000Z
+DTSTAMP:20241128T050925Z
+DTSTART:20241205T175500Z
+SEQUENCE:0
+SUMMARY:BBC First: Death in Paradise - Series 11\, Episode 4
+UID:35d16777-bfb5-4d51-a2cf-b0238090207b
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
+ team investigate the gruesome killings and murders using the most sophist
+ icated techniques that were unheard of in the late 1890s.\n\nAn avenging 
+ angel strikes down a Russian Chess player. A Polish emblem is found on th
+ e dead man. Crabtree goes under cover as a chess player but his moves are
+  actually being orchestrated by another. They are not the only ones playi
+ ng deviously as the Russians and Poles compete outside the tournament. 16
+ /12
+DTEND:20241205T200000Z
+DTSTAMP:20241128T050925Z
+DTSTART:20241205T190000Z
+SEQUENCE:0
+SUMMARY:BBC First: Murdoch Mysteries - Game of Kings
+UID:66878633-f5f2-4897-8f88-7af31024fac5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Professor Jasper Tempest\, a genius Cambridge University crimi
+ nologist with OCD and an overbearing mother\, advises the police.\n\nProf
+ essor T is called upon to help investigate the disappearance of a six-yea
+ r-old girl. Tensions rise between DI Paul Rabbit and Prof T until they co
+ me to blows. 4/6
+DTEND:20241205T210000Z
+DTSTAMP:20241128T050925Z
+DTSTART:20241205T200000Z
+SEQUENCE:0
+SUMMARY:BBC First: Professor T - Mother Love
+UID:a113f559-5995-4108-84ea-9907116bede5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:A shy and enigmatic Detective Sergeant is partnered with a wil
+ dly ambitious Detective Chief Inspector to solve crimes in the historic c
+ ity of Bath.\n\nWhen McDonald and Dodds discover the body of a woman that
+ 's been missing for over 35 years\, their investigation brings them into 
+ the dark heart of one of Bath's wealthiest families. 2/3
+DTEND:20241205T225500Z
+DTSTAMP:20241128T050925Z
+DTSTART:20241205T210000Z
+SEQUENCE:0
+SUMMARY:BBC First: McDonald & Dodds - The Rule of Three
+UID:fc35ab93-f325-4aa0-b433-2b30c6375f41
 END:VEVENT
 END:VCALENDAR
