@@ -3,72 +3,17 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:BBC First TV Guide
 BEGIN:VEVENT
-DESCRIPTION:DI Neville Parker investigates when entrepreneur and family ma
- n\, Gerry Stableforth\, is found dead in a ravine. His family are left in
-  shock.\n\nPart 2. DI Neville Parker investigates when entrepreneur and f
- amily man\, Gerry Stableforth\, is found dead in a ravine. His family are
-  left in shock. 2/2
-DTEND:20241219T190000Z
-DTSTAMP:20241219T050922Z
-DTSTART:20241219T180000Z
-SEQUENCE:0
-SUMMARY:BBC First: Death in Paradise: Christmas Special 2023 - Part 2
-UID:8be30b38-be15-43af-9ec6-4516475f65cd
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
- team investigate the gruesome killings and murders using the most sophist
- icated techniques that were unheard of in the late 1890s.\n\nAfter a tele
- phone call reports a body has been discovered\, as well as reports of gun
- shots have been reported\, Murdoch and Crabtree find an unlikely suspect 
- cowering near the body. Murdoch suspects the true killer is still out the
- re. 7/18
-DTEND:20241219T200000Z
-DTSTAMP:20241219T050922Z
-DTSTART:20241219T190000Z
-SEQUENCE:0
-SUMMARY:BBC First: Murdoch Mysteries - Brother's Keeper
-UID:7732bbf2-b973-49f6-a298-32296c4eeb67
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Professor Jasper Tempest\, a genius Cambridge University crimi
- nologist with OCD and an overbearing mother\, advises the police.\n\nWhen
-  an attempt is made on a billionaire businessman's life\, Professor T sus
- pects the culprit may be much closer to home than the police suspect. 6/6
-DTEND:20241219T210000Z
-DTSTAMP:20241219T050922Z
-DTSTART:20241219T200000Z
-SEQUENCE:0
-SUMMARY:BBC First: Professor T - The Dutiful Child
-UID:5116f246-0952-4525-8726-6d5badd5e65c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Humphrey and his team are baffled by a set of reverse burglari
- es where items are left behind rather than taken. With their only credibl
- e suspect being Santa it's a race against time to find the real culprit i
- n time for Christmas.\n\nHumphrey and his team are baffled by a set of re
- verse burglaries where items are left behind rather than taken. With thei
- r only credible suspect being Santa it's a race against time to find the 
- real culprit in time for Christmas.
-DTEND:20241219T221000Z
-DTSTAMP:20241219T050922Z
-DTSTART:20241219T210000Z
-SEQUENCE:0
-SUMMARY:BBC First: Beyond Paradise - Christmas Special 2023 - Episode 1
-UID:3b962d90-e96f-4653-909e-4fbcb00be214
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
  tish inspector who is assigned to investigate crime on the paradise islan
  d of Saint-Marie in the Caribbean.\n\nIt's murder in the bingo hall as a 
  local care home resident is found stabbed with her own knitting needle\, 
  clutching a mysterious photo of a dead man. 2/8
 DTEND:20241220T190000Z
-DTSTAMP:20241219T050923Z
+DTSTAMP:20241220T050851Z
 DTSTART:20241220T175500Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 13\, Episode 2
-UID:25675dd4-0440-4c28-a658-de6af1115ca9
+UID:6785da7d-b6be-4b55-95df-30a30a6fd41f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -77,11 +22,11 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  hy\, high society couple is found drowned in their pool in an apparent do
  uble suicide\, Murdoch suspects murder. 8/18
 DTEND:20241220T200000Z
-DTSTAMP:20241219T050923Z
+DTSTAMP:20241220T050851Z
 DTSTART:20241220T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - Drowning in Money
-UID:5bd6549b-5144-41cc-abb3-3df9b44999c3
+UID:4259308f-66c1-4665-b92b-a1440b51dd64
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:After undergoing police training in an earlier career and her 
@@ -91,11 +36,11 @@ DESCRIPTION:After undergoing police training in an earlier career and her
  table Psychic Fair\, and sceptical Pearl has to join forces with a psychi
  c to help find her. 2/6
 DTEND:20241220T210000Z
-DTSTAMP:20241219T050923Z
+DTSTAMP:20241220T050851Z
 DTSTART:20241220T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: Whitstable Pearl - Death\, The Devil and The Fool
-UID:a6cfb683-a98e-4e25-9f07-e4d166c3a74b
+UID:29716c76-1056-466d-9b61-d06458538cae
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Fresh out of Glasgow Veterinary College James Herriot follows 
@@ -103,11 +48,11 @@ DESCRIPTION:Fresh out of Glasgow Veterinary College James Herriot follows
   and Mr Bosworth clash over a Warden task and both Siegfried and Carmody 
  are forced to pay some attention to their romantic pursuits. 5/7
 DTEND:20241220T220000Z
-DTSTAMP:20241219T050923Z
+DTSTAMP:20241220T050851Z
 DTSTART:20241220T210000Z
 SEQUENCE:0
 SUMMARY:BBC First: All Creatures Great and Small - Pair Bond
-UID:5561a447-f7c3-4045-92f0-04598eb9fbf4
+UID:b67770dd-c4ef-4ef4-8568-afa30adc875e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Fresh out of Glasgow Veterinary College James Herriot follows 
@@ -115,11 +60,11 @@ DESCRIPTION:Fresh out of Glasgow Veterinary College James Herriot follows
   and Mr Bosworth clash over a Warden task and both Siegfried and Carmody 
  are forced to pay some attention to their romantic pursuits. 5/7
 DTEND:20241221T190000Z
-DTSTAMP:20241219T050923Z
+DTSTAMP:20241220T050852Z
 DTSTART:20241221T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: All Creatures Great and Small - Pair Bond
-UID:a6589a8f-1fba-4bcd-a2e3-f471cf9dd8ab
+UID:24776282-1231-4cb9-90c2-6a480f644aeb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The Brokenwood Mysteries is set in a seemingly quiet country t
@@ -129,11 +74,11 @@ DESCRIPTION:The Brokenwood Mysteries is set in a seemingly quiet country t
  sight confronts Mike and his team\; Santa Claus with his throat slit. Or 
  as Mike insists - 'not Santa\, but a man dressed in a Santa suit'. 4/4
 DTEND:20241221T205500Z
-DTSTAMP:20241219T050923Z
+DTSTAMP:20241220T050852Z
 DTSTART:20241221T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: The Brokenwood Mysteries - A Merry Bloody Christmas
-UID:9e02e19e-9907-4fc2-9040-2a73bd04d24b
+UID:1b262736-e9e8-4d1e-9e25-8d2179a12fce
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:No-nonsense police sergeant Catherine Cawood leads a team of d
@@ -141,11 +86,11 @@ DESCRIPTION:No-nonsense police sergeant Catherine Cawood leads a team of d
  rine sinks into a deep depression as she learns that Tommy is still at la
  rge. The net finally closes in on Kevin. 5/6
 DTEND:20241221T220000Z
-DTSTAMP:20241219T050923Z
+DTSTAMP:20241220T050852Z
 DTSTART:20241221T205500Z
 SEQUENCE:0
 SUMMARY:BBC First: Happy Valley - Series 1\, Episode 5
-UID:7c3650ca-0d74-4619-8bb0-4313d1c6bdd0
+UID:1e8fa6ee-cdd0-4128-ab3b-0a25e9e1dabb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Antique dealer Jean White finds her life turned upside down wh
@@ -156,11 +101,11 @@ DESCRIPTION:Antique dealer Jean White finds her life turned upside down wh
  sit in Saint Victoire\; to save Patrick\, Jean must solve a riddle and un
  lock a rare treasure. 7/7
 DTEND:20241222T190000Z
-DTSTAMP:20241219T050923Z
+DTSTAMP:20241220T050853Z
 DTSTART:20241222T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: The Madame Blanc Mysteries - Windows
-UID:5cd68953-6cf7-4026-b3cb-a3df709f94e5
+UID:22572079-b715-4d64-bee9-009cd0c61967
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Dutch detective Van Der Valk is re-imagined in contemporary Am
@@ -169,22 +114,22 @@ DESCRIPTION:Dutch detective Van Der Valk is re-imagined in contemporary Am
  suspect started killing again? Or is someone else killing in her name? 4/
  6
 DTEND:20241222T200000Z
-DTSTAMP:20241219T050923Z
+DTSTAMP:20241220T050853Z
 DTSTART:20241222T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Van Der Valk - Redemption in Amsterdam\, Part 2
-UID:1e657d80-aba0-401c-856b-bc38d66d5e4d
+UID:9cdd8e1c-344d-4d9d-aa5e-f4e8a95a62b4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The lives of a prisoner on death row\, a journalist looking fo
  r a story\, a vicar in a sleepy English town and a maths tutor trapped in
   a cellar intertwine in a deadly way. 1/4
 DTEND:20241222T211500Z
-DTSTAMP:20241219T050923Z
+DTSTAMP:20241220T050853Z
 DTSTART:20241222T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: Inside Man - Series 1\, Episode 1
-UID:8b89df64-254c-44c7-96d3-579d5142c8db
+UID:05bade4e-fdf4-49aa-9e09-547b1134d1b1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:A true-crime podcaster is murdered while on the hunt for a chi
@@ -194,12 +139,12 @@ DESCRIPTION:A true-crime podcaster is murdered while on the hunt for a chi
   Eve 1977. Selwyn's past comes back to haunt him and this was the one cas
  e he never solved. 1/1
 DTEND:20241222T231000Z
-DTSTAMP:20241219T050923Z
+DTSTAMP:20241220T050853Z
 DTSTART:20241222T211500Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise: Christmas Special 2022 - Series 1\, 
  Episode 1
-UID:01886cb3-fc46-493d-91b6-78daf5e475b2
+UID:e7111d6c-522e-4b5a-8c41-e1be88ea42d2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The Brokenwood Mysteries is set in a seemingly quiet country t
@@ -209,11 +154,11 @@ DESCRIPTION:The Brokenwood Mysteries is set in a seemingly quiet country t
  sight confronts Mike and his team\; Santa Claus with his throat slit. Or 
  as Mike insists - 'not Santa\, but a man dressed in a Santa suit'. 4/4
 DTEND:20241223T190000Z
-DTSTAMP:20241219T050923Z
+DTSTAMP:20241220T050853Z
 DTSTART:20241223T170500Z
 SEQUENCE:0
 SUMMARY:BBC First: The Brokenwood Mysteries - A Merry Bloody Christmas
-UID:17db6a33-e259-4ffc-b082-a3e03aee9bc7
+UID:18268bdc-de05-45bc-a776-4303e800fda7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -222,11 +167,11 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  ackenreid travels to St. Marys to help an old flame whose daughter is mis
  sing\, and he happens to learn then that he is her father. 9/18
 DTEND:20241223T200000Z
-DTSTAMP:20241219T050923Z
+DTSTAMP:20241220T050853Z
 DTSTART:20241223T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - Secrets and Lies
-UID:11272455-57e2-427d-9cb8-06a23a578aa3
+UID:c97f6e1e-0938-41e8-8e11-2196afb8978c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Fresh out of Glasgow Veterinary College James Herriot follows 
@@ -235,11 +180,11 @@ DESCRIPTION:Fresh out of Glasgow Veterinary College James Herriot follows
   broken down car forces Siegfried and Tristan to renegotiate their relati
  onship with amusing consequences. 6/7
 DTEND:20241223T210000Z
-DTSTAMP:20241219T050923Z
+DTSTAMP:20241220T050853Z
 DTSTART:20241223T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: All Creatures Great and Small - Glass Half Full
-UID:8af48c03-b950-400b-b13c-25fad644dba6
+UID:3e108349-e239-40cf-858a-bb8fcfdca3db
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Professor Jasper Tempest\, a genius Cambridge University crimi
@@ -247,11 +192,11 @@ DESCRIPTION:Professor Jasper Tempest\, a genius Cambridge University crimi
   an attempt is made on a billionaire businessman's life\, Professor T sus
  pects the culprit may be much closer to home than the police suspect. 6/6
 DTEND:20241223T220000Z
-DTSTAMP:20241219T050923Z
+DTSTAMP:20241220T050853Z
 DTSTART:20241223T210000Z
 SEQUENCE:0
 SUMMARY:BBC First: Professor T - The Dutiful Child
-UID:c93d8e70-4166-4a21-b289-d8d67fd2d832
+UID:09ef95d4-1a5c-4e78-94c4-898bdc0a86ca
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:DI Neville Parker investigates when entrepreneur and family ma
@@ -260,11 +205,11 @@ DESCRIPTION:DI Neville Parker investigates when entrepreneur and family ma
  n\, Gerry Stableforth\, is found dead in a ravine. His family are left in
   shock.
 DTEND:20241224T190000Z
-DTSTAMP:20241219T050924Z
+DTSTAMP:20241220T050853Z
 DTSTART:20241224T170000Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise: Christmas Special 2023 - Episode 1
-UID:c828f18d-4d19-455b-ba50-586462feb5bf
+UID:e85b4674-134c-43af-94b7-7fd5f892f2a4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -273,11 +218,11 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  s a detective recover a ship loaded with antiques. Brackenreid considers 
  leaving. 10/18
 DTEND:20241224T200000Z
-DTSTAMP:20241219T050924Z
+DTSTAMP:20241220T050853Z
 DTSTART:20241224T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - Pirates of the Great Lakes
-UID:f1b41f8a-72d4-4489-a351-f801fe5a09c4
+UID:a2b6f29d-e496-4c41-9b27-cab5d97404c6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Great Slaughter's pantomime rehearsals get a shocking twist wh
@@ -286,12 +231,12 @@ DESCRIPTION:Great Slaughter's pantomime rehearsals get a shocking twist wh
  sals get a shocking twist when a cast member ends up mysteriously dead. C
  an Sister Boniface unravel the plot before death strikes again?
 DTEND:20241224T220000Z
-DTSTAMP:20241219T050924Z
+DTSTAMP:20241220T050853Z
 DTSTART:20241224T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: Vier de kerst met Sister Boniface Mysteries - Once Upon
   A Time
-UID:b291be65-3b8d-429e-ac1d-b3ae9ff7293f
+UID:6d9ee597-7bdd-449b-a779-3f25490f210e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:In a world where appearance is everything\, DI Max Arnold has 
@@ -300,11 +245,11 @@ DESCRIPTION:In a world where appearance is everything\, DI Max Arnold has
  nold investigates crimes in the affluent Chelsea area of London\, unveili
  ng the dark secrets hidden beneath the borough's wealthy facade. 1/4
 DTEND:20241225T200000Z
-DTSTAMP:20241219T050924Z
+DTSTAMP:20241220T050855Z
 DTSTART:20241225T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: The Chelsea Detective - Everyone Love Chloe
-UID:0155e609-fda6-4f25-a81d-572ab3a0f329
+UID:6db0346e-9616-411c-9842-169ec641a1b8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Can new detective Mervin Wilson (Don Gilet) solve the mysterio
@@ -315,11 +260,11 @@ DESCRIPTION:Can new detective Mervin Wilson (Don Gilet) solve the mysterio
  a new detective inspector - Londoner Mervin Wilson - whose first case is 
  to work out who shot Santa.
 DTEND:20241225T220000Z
-DTSTAMP:20241219T050924Z
+DTSTAMP:20241220T050855Z
 DTSTART:20241225T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: Vier de kerst met Death in Paradise - Episode 1
-UID:99481212-40ca-4f0b-982f-d8f796f29725
+UID:3d91c770-c5e5-493b-9854-c813296ecfdb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Can new detective Mervin Wilson (Don Gilet) solve the mysterio
@@ -330,11 +275,11 @@ DESCRIPTION:Can new detective Mervin Wilson (Don Gilet) solve the mysterio
  a new detective inspector - Londoner Mervin Wilson - whose first case is 
  to work out who shot Santa.
 DTEND:20241226T200000Z
-DTSTAMP:20241219T050924Z
+DTSTAMP:20241220T050855Z
 DTSTART:20241226T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: Vier de kerst met Death in Paradise - Episode 1
-UID:67f98f87-00f7-4aa0-9789-974678a809ee
+UID:91ab213e-46ff-4cf2-80ae-f198dd02b0f6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Christmas 1969. The Nonnatus midwives are in their element\, a
@@ -345,11 +290,11 @@ DESCRIPTION:Christmas 1969. The Nonnatus midwives are in their element\, a
  ll busy delivering babies and doing the job they are most dedicated and c
  ommitted to. 1/2
 DTEND:20241226T211000Z
-DTSTAMP:20241219T050924Z
+DTSTAMP:20241220T050855Z
 DTSTART:20241226T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: Vier de kerst met Call the Midwife - Part 1
-UID:776cebc9-33ae-4442-a42a-9b41e45e19a0
+UID:da751639-0423-4d3b-a238-9d1ebc94f1d3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Christmas 1969. The Nonnatus midwives are in their element\, a
@@ -358,10 +303,52 @@ DESCRIPTION:Christmas 1969. The Nonnatus midwives are in their element\, a
  xcitement to the frosty landscape\, but there are other visitors to the b
  orough.\n\nPart 2 of the Christmas Special\, set in 1969. 2/2
 DTEND:20241226T223000Z
-DTSTAMP:20241219T050924Z
+DTSTAMP:20241220T050855Z
 DTSTART:20241226T211000Z
 SEQUENCE:0
 SUMMARY:BBC First: Vier de kerst met Call the Midwife - Part 2
-UID:072f8af4-d9c1-4893-9d98-68ef213a8b9e
+UID:73e7c211-bb6e-4197-bb11-6da05674d175
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:When a philanthropist\, who every year hands out Christmas pre
+ sents to Toronto's underprivileged children\, is murdered\, Murdoch and h
+ is team must find the killer and save Christmas for the children.\n\nWhen
+  a philanthropist\, who every year hands out Christmas presents to Toront
+ o's underprivileged children\, is murdered\, Murdoch and his team must fi
+ nd the killer and save Christmas for the children. 1/1
+DTEND:20241227T200000Z
+DTSTAMP:20241220T050855Z
+DTSTART:20241227T180500Z
+SEQUENCE:0
+SUMMARY:BBC First: Murdoch Mysteries: A Merry Murdoch Christmas - Series 1
+ \, Episode 1
+UID:da68fb78-f8d4-4d6b-b36e-f9a560ecbbfb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:After undergoing police training in an earlier career and her 
+ son now grown\, single mum Pearl pursues her lifelong dream and starts a 
+ private detective agency\, which she runs from her family restaurant in t
+ he coastal town of Whitstable.\n\nJust as Pearl allows herself a luxury w
+ eekend away with Tom\, a food critic drops dead in the Whitstable Pearl. 
+ Will she come home or stay with Tom? 3/6
+DTEND:20241227T210000Z
+DTSTAMP:20241220T050855Z
+DTSTART:20241227T200000Z
+SEQUENCE:0
+SUMMARY:BBC First: Whitstable Pearl - Oysters Kilpatrick
+UID:96137b9e-276f-41e0-bfba-565ab91084b7
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Fresh out of Glasgow Veterinary College James Herriot follows 
+ his dream to become a vet in the magnificent Yorkshire Dales.\n\nJames ha
+ s a bout of brucellosis\, bringing long buried emotions to the surface. A
+  broken down car forces Siegfried and Tristan to renegotiate their relati
+ onship with amusing consequences. 6/7
+DTEND:20241227T220000Z
+DTSTAMP:20241220T050855Z
+DTSTART:20241227T210000Z
+SEQUENCE:0
+SUMMARY:BBC First: All Creatures Great and Small - Glass Half Full
+UID:fa984423-9a36-49fc-a2e1-ac16f1bc00f8
 END:VEVENT
 END:VCALENDAR
