@@ -5,68 +5,15 @@ X-WR-CALNAME:BBC First TV Guide
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
  tish inspector who is assigned to investigate crime on the paradise islan
- d of Saint-Marie in the Caribbean.\n\nA murder confession proves problema
- tic for DI Richard Poole and the team are perplexed when a wife admits to
-  killing her husband but there's no body. 4/8
-DTEND:20250106T190000Z
-DTSTAMP:20250106T050915Z
-DTSTART:20250106T175500Z
-SEQUENCE:0
-SUMMARY:BBC First: Death in Paradise - Series 1\, Episode 4
-UID:2c776632-d76e-4c85-abbc-e63d4848bd12
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
- team investigate the gruesome killings and murders using the most sophist
- icated techniques that were unheard of in the late 1890s.\n\nWhen a man d
- ies in a deliberately set fire\, Murdoch's investigation reveals some sho
- cking personal history. 14/18
-DTEND:20250106T200000Z
-DTSTAMP:20250106T050915Z
-DTSTART:20250106T190000Z
-SEQUENCE:0
-SUMMARY:BBC First: Murdoch Mysteries - Sins of the Father
-UID:eff666bb-e0c7-48e9-967f-f05b34898c76
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Spiky detective Mackenzie Clarke\, the toast of London's Metro
- politan Police\, is forced to return home to idyllic Australian beachside
-  town Dolphin Cove and soon encounters murder and mystery.\n\nWhen Dolphi
- n Cove local royalty Stuart Granger washes ashore with a knife in his bac
- k in the middle of a surf carnival\, recently returned ex-pat DI Mackenzi
- e Clarke is thrust onto the case. 1/6
-DTEND:20250106T211500Z
-DTSTAMP:20250106T050915Z
-DTSTART:20250106T200000Z
-SEQUENCE:0
-SUMMARY:BBC First: Return to Paradise - R.I.P. Tide
-UID:1d037814-6a06-4f9f-80dd-c5131e51164a
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Professor Jasper Tempest\, a genius Cambridge University crimi
- nologist with OCD and an overbearing mother\, advises the police.\n\nWhen
-  a student is left badly burnt and in a coma after a house fire\, the CID
-  team overcome their reluctance to call in Professor T as it emerges that
-  the victim was drugged\, and the fire started deliberately. 1/6
-DTEND:20250106T221500Z
-DTSTAMP:20250106T050915Z
-DTSTART:20250106T211500Z
-SEQUENCE:0
-SUMMARY:BBC First: Professor T - Ring of Fire
-UID:e89f6129-d662-48a2-b977-043550975446
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
- tish inspector who is assigned to investigate crime on the paradise islan
  d of Saint-Marie in the Caribbean.\n\nWhen Richard is struck down by a tr
  opical disease and Camille is in Paris\, it's left to Dwayne and Fidel to
   solve an apparently impossible murder. 6/8
 DTEND:20250107T190000Z
-DTSTAMP:20250106T050915Z
+DTSTAMP:20250107T050846Z
 DTSTART:20250107T175500Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 1\, Episode 6
-UID:36936419-35ca-411f-bd34-063248cea832
+UID:68e42cc2-dcd5-45e6-b095-fd860ea7bc2b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -75,11 +22,11 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  s electrocuted during a typing contest with Crabtree and Louise Cherry\, 
  Murdoch suspects the reporter was the intended target. 15/18
 DTEND:20250107T200000Z
-DTSTAMP:20250106T050915Z
+DTSTAMP:20250107T050846Z
 DTSTART:20250107T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - One Minute to Murder
-UID:851dce57-b3f4-4d47-a97e-796394d4fd1d
+UID:71afb92a-73df-4b74-92e6-396765840e2a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:England\, 1954. Young\, ambitious Luke Fitzwilliam arrives in 
@@ -93,11 +40,11 @@ DESCRIPTION:England\, 1954. Young\, ambitious Luke Fitzwilliam arrives in
  e is shaken by another death\, the discovery of a crucial piece of eviden
  ce blows the investigation wide open. 2/1
 DTEND:20250107T210000Z
-DTSTAMP:20250106T050915Z
+DTSTAMP:20250107T050846Z
 DTSTART:20250107T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: Agatha Christie: Murder is Easy - Series 1\, Episode 2
-UID:d77208e3-9a7a-4171-aa05-cadfce8d1ba8
+UID:44fba935-d3ff-4e34-9204-9fb21a12a2cc
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:With a documentary style delivery\, this drama tells the story
@@ -107,11 +54,11 @@ DESCRIPTION:With a documentary style delivery\, this drama tells the story
  die in a sex-game gone wrong? Meanwhile Billie confronts Amber - with hor
  rifying consequences. 4/5
 DTEND:20250107T220000Z
-DTSTAMP:20250106T050915Z
+DTSTAMP:20250107T050846Z
 DTSTART:20250107T210000Z
 SEQUENCE:0
 SUMMARY:BBC First: London Kills - Sex Games
-UID:5bee5604-c256-48bd-8902-63a72843fabc
+UID:b31c4ca2-1e66-4ec1-b906-6a08c839e184
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
@@ -120,11 +67,11 @@ DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
  r investigation when a piece of incriminating evidence is found at the sc
  ene of the crime. 8/8
 DTEND:20250108T190000Z
-DTSTAMP:20250106T050916Z
+DTSTAMP:20250107T050846Z
 DTSTART:20250108T175500Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 1\, Episode 8
-UID:e9d81161-3e41-417b-ad0e-1746f510965d
+UID:390e1c79-0e1e-4751-9307-c89ecaee9bc9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -133,11 +80,11 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  lease of Murdoch and Ogden's book\, a series of copycat murders begin to 
  take place. 16/18
 DTEND:20250108T200000Z
-DTSTAMP:20250106T050916Z
+DTSTAMP:20250107T050846Z
 DTSTART:20250108T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - Manual for Murder
-UID:3e107909-9c67-4c2a-88dd-d04f764f3458
+UID:85951375-e4dd-4791-bae2-3c27097d3bcd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
@@ -146,11 +93,11 @@ DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
  asure hunters arrive on the island looking for a legendary pirate's loot 
  only for one of their number to be killed. 4/8
 DTEND:20250108T210500Z
-DTSTAMP:20250106T050916Z
+DTSTAMP:20250107T050846Z
 DTSTART:20250108T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 2\, Episode 4
-UID:2d858223-7188-431d-a41f-9b473eb68785
+UID:4cc0dc4e-0d0d-4e67-b477-5e9565cea6bb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The Brokenwood Mysteries is set in a seemingly quiet country t
@@ -159,11 +106,11 @@ DESCRIPTION:The Brokenwood Mysteries is set in a seemingly quiet country t
   of a woman who is killed by an arrow. Is there a serial killer loose in 
  Brokenwood? 2/4
 DTEND:20250108T230500Z
-DTSTAMP:20250106T050916Z
+DTSTAMP:20250107T050846Z
 DTSTART:20250108T210500Z
 SEQUENCE:0
 SUMMARY:BBC First: The Brokenwood Mysteries - Stone Cold Dead
-UID:d238dbe9-8347-444c-bd19-adfe7d392c6e
+UID:3a0d5882-6e14-480a-b287-058dc9cd9baf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
@@ -172,11 +119,11 @@ DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
  er smoke-filled bedroom what first appears to be a tragic accident turns 
  into a murder investigation. 2/8
 DTEND:20250109T190000Z
-DTSTAMP:20250106T050917Z
+DTSTAMP:20250107T050846Z
 DTSTART:20250109T175500Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 2\, Episode 2
-UID:b2445812-bf31-41da-ba88-bab935862c7b
+UID:a7dddca2-46fa-4b69-8eea-7e38643001df
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -185,11 +132,11 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  eeks a promotion\, a constable is shot in a botched raid on an opium den 
  led by Watts. 17/18
 DTEND:20250109T200000Z
-DTSTAMP:20250106T050917Z
+DTSTAMP:20250107T050846Z
 DTSTART:20250109T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - Darkness Before the Dawn - Part 1
-UID:d05d31d2-f588-40bd-994f-307eebee4df1
+UID:a99e39ca-5c41-4183-a6ef-75dc6b8747b6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Professor Jasper Tempest\, a genius Cambridge University crimi
@@ -198,11 +145,11 @@ DESCRIPTION:Professor Jasper Tempest\, a genius Cambridge University crimi
  that has uncanny parallels to a double murder that he successfully prosec
  uted 15 years ago. 2/6
 DTEND:20250109T210000Z
-DTSTAMP:20250106T050917Z
+DTSTAMP:20250107T050846Z
 DTSTART:20250109T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: Professor T - The Mask Murders
-UID:b4ba31be-d27b-4ebe-b688-fb4eb49a101a
+UID:330dfa57-4330-46af-9426-79d287c1fb00
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:England\, 1954. Young\, ambitious Luke Fitzwilliam arrives in 
@@ -216,11 +163,11 @@ DESCRIPTION:England\, 1954. Young\, ambitious Luke Fitzwilliam arrives in
  e is shaken by another death\, the discovery of a crucial piece of eviden
  ce blows the investigation wide open. 2/1
 DTEND:20250109T220000Z
-DTSTAMP:20250106T050917Z
+DTSTAMP:20250107T050846Z
 DTSTART:20250109T210000Z
 SEQUENCE:0
 SUMMARY:BBC First: Agatha Christie: Murder is Easy - Series 1\, Episode 2
-UID:dd1e91c6-54dc-48f0-9872-33638e520627
+UID:146b9ead-6837-448e-8295-74173d8965bf
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
@@ -229,11 +176,11 @@ DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
  asure hunters arrive on the island looking for a legendary pirate's loot 
  only for one of their number to be killed. 4/8
 DTEND:20250110T190000Z
-DTSTAMP:20250106T050918Z
+DTSTAMP:20250107T050846Z
 DTSTART:20250110T175500Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 2\, Episode 4
-UID:72e122ce-c7da-47a7-ba22-a0c841ab1a9a
+UID:4992f785-a21c-42e3-867c-cd6157629b94
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -242,11 +189,11 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  ects John is being framed for murder by Inspector McWorthy and Brackenrei
  d goes after the corrupt copper. 18/18
 DTEND:20250110T200000Z
-DTSTAMP:20250106T050918Z
+DTSTAMP:20250107T050846Z
 DTSTART:20250110T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - Darkness Before the Dawn - Part 2
-UID:21a23ae2-b025-40b3-a922-70cb405573eb
+UID:d9050eeb-9e1e-4abb-aa9d-9a1e146734b2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:After undergoing police training in an earlier career and her 
@@ -256,11 +203,11 @@ DESCRIPTION:After undergoing police training in an earlier career and her
  st tour guide sees a body being buried on the beach in Whitstable. But Pe
  arl wants to know - where is the body? 5/6
 DTEND:20250110T210000Z
-DTSTAMP:20250106T050918Z
+DTSTAMP:20250107T050846Z
 DTSTART:20250110T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: Whitstable Pearl - Walking with Ghosts
-UID:99f5b290-f243-4eee-be4b-9f4adf49533d
+UID:369f4ad2-b261-4829-a9aa-ee69b6dc0bec
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Spiky detective Mackenzie Clarke\, the toast of London's Metro
@@ -270,11 +217,11 @@ DESCRIPTION:Spiky detective Mackenzie Clarke\, the toast of London's Metro
  k in the middle of a surf carnival\, recently returned ex-pat DI Mackenzi
  e Clarke is thrust onto the case. 1/6
 DTEND:20250110T221000Z
-DTSTAMP:20250106T050918Z
+DTSTAMP:20250107T050846Z
 DTSTART:20250110T210000Z
 SEQUENCE:0
 SUMMARY:BBC First: Return to Paradise - R.I.P. Tide
-UID:67aad334-2fc9-4a72-b9d8-62752ed911ae
+UID:75a6dadf-b7b2-439f-8869-4d1cc795459c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Spiky detective Mackenzie Clarke\, the toast of London's Metro
@@ -284,11 +231,11 @@ DESCRIPTION:Spiky detective Mackenzie Clarke\, the toast of London's Metro
  k in the middle of a surf carnival\, recently returned ex-pat DI Mackenzi
  e Clarke is thrust onto the case. 1/6
 DTEND:20250111T190000Z
-DTSTAMP:20250106T050918Z
+DTSTAMP:20250107T050846Z
 DTSTART:20250111T174500Z
 SEQUENCE:0
 SUMMARY:BBC First: Return to Paradise - R.I.P. Tide
-UID:1537bdf3-771e-49f2-a54c-b5ec51005289
+UID:2be5c3e8-d57d-489c-9ecb-2740820e2965
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The Brokenwood Mysteries is set in a seemingly quiet country t
@@ -297,11 +244,11 @@ DESCRIPTION:The Brokenwood Mysteries is set in a seemingly quiet country t
  and turns ugly when one of them turns up dead - a victim of an obscure po
  ison. 3/4
 DTEND:20250111T210000Z
-DTSTAMP:20250106T050918Z
+DTSTAMP:20250107T050846Z
 DTSTART:20250111T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: The Brokenwood Mysteries - The Scarecrow
-UID:8768bdda-6c71-4780-9053-38d6b5388a6f
+UID:2b6c056c-10f5-4201-85d6-247fd9f1f182
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:No-nonsense police sergeant Catherine Cawood leads a team of d
@@ -309,11 +256,11 @@ DESCRIPTION:No-nonsense police sergeant Catherine Cawood leads a team of d
  rine arrives home with Ilinka\, an emaciated Croatian woman who has been 
  rescued after being trafficked and enslaved for four years. 2/6
 DTEND:20250111T220000Z
-DTSTAMP:20250106T050918Z
+DTSTAMP:20250107T050846Z
 DTSTART:20250111T210000Z
 SEQUENCE:0
 SUMMARY:BBC First: Happy Valley - Series 2\, Episode 2
-UID:63845223-96b7-4337-93fe-9c3a84bf2aee
+UID:6e6e02b6-e852-4b26-a5ca-efd204b944e1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:England\, 1954. Young\, ambitious Luke Fitzwilliam arrives in 
@@ -327,11 +274,11 @@ DESCRIPTION:England\, 1954. Young\, ambitious Luke Fitzwilliam arrives in
  e is shaken by another death\, the discovery of a crucial piece of eviden
  ce blows the investigation wide open. 2/1
 DTEND:20250112T190000Z
-DTSTAMP:20250106T050918Z
+DTSTAMP:20250107T050848Z
 DTSTART:20250112T180000Z
 SEQUENCE:0
-SUMMARY:BBC First: Agatha Christie: Murder is Easy - Series 1\, Episode 2
-UID:8bf84ca9-ed69-42ce-b841-1c4bb407de17
+SUMMARY:BBC First: Murder is Easy - Series 1\, Episode 2
+UID:80faadfe-a1fe-49ad-9f4d-9275d8540d29
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Marie Antoinette leaves Austria to marry the Dauphin of France
@@ -343,21 +290,21 @@ DESCRIPTION:Marie Antoinette leaves Austria to marry the Dauphin of France
  to leave Austria to marry the Dauphin. She must produce a Bourbon heir to
   secure the alliance between France and Austria. 1/8
 DTEND:20250112T200500Z
-DTSTAMP:20250106T050918Z
+DTSTAMP:20250107T050848Z
 DTSTART:20250112T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Marie Antoinette - Series 1\, Episode 1
-UID:4064dc61-e0bb-4530-be47-4353233f3087
+UID:f525585a-890e-4c9b-bb58-6f059db32c28
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Jefferson Grieff prepares to face execution\, and time is also
   running out for Janice and Harry. 4/4
 DTEND:20250112T211500Z
-DTSTAMP:20250106T050918Z
+DTSTAMP:20250107T050848Z
 DTSTART:20250112T200500Z
 SEQUENCE:0
 SUMMARY:BBC First: Inside Man - Series 1\, Episode 4
-UID:54cb6fbf-6f0c-46d5-a35e-ef9e732869c7
+UID:2d871f3f-0a4d-4f22-941b-0c172e16dc4a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Eliza Scarlet joins forces with a Scotland Yard Inspector to s
@@ -365,11 +312,11 @@ DESCRIPTION:Eliza Scarlet joins forces with a Scotland Yard Inspector to s
  murdered\, Eliza finds herself investigating the dark and macabre world o
  f Victorian undertakers. 2/6
 DTEND:20250112T221500Z
-DTSTAMP:20250106T050918Z
+DTSTAMP:20250107T050848Z
 DTSTART:20250112T211500Z
 SEQUENCE:0
 SUMMARY:BBC First: Miss Scarlet and the Duke - Six Feet Under
-UID:a13c557a-ff13-4b1b-be31-9d0b6618c188
+UID:5bc5c8da-207e-4851-a9b9-430b831909c0
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
@@ -378,11 +325,11 @@ DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
  ad in her luxury villa\, strangled by her own scarf\, the crime scene ini
  tially indicates a robbery gone wrong. 6/8
 DTEND:20250113T190000Z
-DTSTAMP:20250106T050918Z
+DTSTAMP:20250107T050848Z
 DTSTART:20250113T175500Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 2\, Episode 6
-UID:4b995c2f-ba86-4c3c-a1f4-ac9bbc89643f
+UID:5e5db887-5cec-4493-aeda-c4c52150ed37
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -391,11 +338,11 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  stigates an explosion at a suffrage rally attended by Dr. Talbot and Juli
  a\, after a man dies. 1/18
 DTEND:20250113T200000Z
-DTSTAMP:20250106T050918Z
+DTSTAMP:20250107T050848Z
 DTSTART:20250113T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - Troublemakers
-UID:1bcde024-afa1-4696-aaf3-b2c9321cd066
+UID:631de088-f686-4c58-9344-083ca81148ac
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Spiky detective Mackenzie Clarke\, the toast of London's Metro
@@ -405,11 +352,11 @@ DESCRIPTION:Spiky detective Mackenzie Clarke\, the toast of London's Metro
  ckenzie Clarke finds herself delving into the world of wellness to solve 
  the murder. 2/6
 DTEND:20250113T211000Z
-DTSTAMP:20250106T050918Z
+DTSTAMP:20250107T050848Z
 DTSTART:20250113T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: Return to Paradise - Dead Last
-UID:b2af7fa9-d706-453d-bad4-6d1593e47ae6
+UID:305c0ae3-4181-4110-bbce-8336e9c22d9a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Professor Jasper Tempest\, a genius Cambridge University crimi
@@ -418,10 +365,68 @@ DESCRIPTION:Professor Jasper Tempest\, a genius Cambridge University crimi
  that has uncanny parallels to a double murder that he successfully prosec
  uted 15 years ago. 2/6
 DTEND:20250113T221000Z
-DTSTAMP:20250106T050918Z
+DTSTAMP:20250107T050848Z
 DTSTART:20250113T211000Z
 SEQUENCE:0
 SUMMARY:BBC First: Professor T - The Mask Murders
-UID:144074d8-f18d-4467-a7cf-8b186080e9d1
+UID:793db65c-f1b5-4c8a-8047-e4f9cfbf12aa
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
+ tish inspector who is assigned to investigate crime on the paradise islan
+ d of Saint-Marie in the Caribbean.\n\nWhen a shot is fired at a charity f
+ undraiser\, the host\, Malcolm Powell is found dead in his study and DI P
+ oole finds he has very little go on. 8/8
+DTEND:20250114T190000Z
+DTSTAMP:20250107T050849Z
+DTSTART:20250114T175500Z
+SEQUENCE:0
+SUMMARY:BBC First: Death in Paradise - Series 2\, Episode 8
+UID:58fea9d4-d677-422a-b46e-0b967b4c8860
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
+ team investigate the gruesome killings and murders using the most sophist
+ icated techniques that were unheard of in the late 1890s.\n\nWhen a dockw
+ orker is shot\, Murdoch pursues an elusive witness and learns anti-union 
+ thugs may be involved. 2/18
+DTEND:20250114T200000Z
+DTSTAMP:20250107T050849Z
+DTSTART:20250114T190000Z
+SEQUENCE:0
+SUMMARY:BBC First: Murdoch Mysteries - Bad Pennies
+UID:f9855ec6-51cb-46de-97c8-9066a11dcdb5
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:England\, 1954. Young\, ambitious Luke Fitzwilliam arrives in 
+ England from Nigeria with the promise of a job at Whitehall. On the train
+  to London he meets the elderly Miss Pinkerton\, who confides in him that
+  there is a killer on the loose in the respectable village of Wychwood-Un
+ der-Ashe. The locals believe the deaths are accidents\, but she suspects 
+ otherwise. When Miss Pinkerton is struck down on her way to Scotland Yard
+ \, Fitzwilliam knows he must find the murderer before they can kill again
+ . Because for a certain kind of person\, murder is easy.\n\nA crucial new
+  piece of evidence leaves Luke Fitzwilliam questioning who he can trust. 
+ 3/1
+DTEND:20250114T210000Z
+DTSTAMP:20250107T050849Z
+DTSTART:20250114T200000Z
+SEQUENCE:0
+SUMMARY:BBC First: Murder is Easy - Series 1\, Episode 3
+UID:1c88b3eb-8d5a-4961-9105-7324396e8c2e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:With a documentary style delivery\, this drama tells the story
+  of a team of top murder detectives with each episode featuring a differe
+ nt murder while also following a serialized story involving the lead dete
+ ctive's missing wife.\n\nAs Billie fights for life\, her would-be killer 
+ Amber meets up with the Detective Inspector's daughter.  Has serial murde
+ rer Amber chosen her next victim? 5/5
+DTEND:20250114T220000Z
+DTSTAMP:20250107T050849Z
+DTSTART:20250114T210000Z
+SEQUENCE:0
+SUMMARY:BBC First: London Kills - Connected
+UID:3e236187-afb0-456f-b77c-b048d8d87974
 END:VEVENT
 END:VCALENDAR
