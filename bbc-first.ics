@@ -3,56 +3,17 @@ PRODID:-//github.com/rianjs/ical.net//NONSGML ical.net 4.0//EN
 VERSION:2.0
 X-WR-CALNAME:BBC First TV Guide
 BEGIN:VEVENT
-DESCRIPTION:Spiky detective Mackenzie Clarke\, the toast of London's Metro
- politan Police\, is forced to return home to idyllic Australian beachside
-  town Dolphin Cove and soon encounters murder and mystery.\n\nWhen crabby
-  local Vince Ogden is found dead in his locked bedsit\, it's up to Macken
- zie to shine a light on the truth of his murder. 6/6
-DTEND:20250215T190000Z
-DTSTAMP:20250215T050745Z
-DTSTART:20250215T175000Z
-SEQUENCE:0
-SUMMARY:BBC First: Return to Paradise - Oh Mine Papa
-UID:750fce3b-9695-4491-a7f5-59c7f3a8c1fe
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:The Brokenwood Mysteries is set in a seemingly quiet country t
- own where the town's newest resident\, Mike Shepherd\, finds that murder 
- lurks in even the most homely location.\n\nAt an abandoned mental health 
- facility\, a young couple stumble upon the body of an elderly man in the 
- old hospital wing strapped to a trolley with electrodes connected to his 
- temples. It would seem he was the victim of electrocution. 4/4
-DTEND:20250215T210000Z
-DTSTAMP:20250215T050745Z
-DTSTART:20250215T190000Z
-SEQUENCE:0
-SUMMARY:BBC First: The Brokenwood Mysteries - The Dark Angel
-UID:bdcf4b97-129a-411b-b162-bbfc2de4a1a3
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:No-nonsense police sergeant Catherine Cawood leads a team of d
- edicated police officers in the Calder Valley in West Yorkshire.\n\nWhen 
- Catherine discovers the remains of a murder victim\, it bizarrely leads h
- er straight back to Tommy Lee Royce. 1/7
-DTEND:20250215T220500Z
-DTSTAMP:20250215T050745Z
-DTSTART:20250215T210000Z
-SEQUENCE:0
-SUMMARY:BBC First: Happy Valley - Series 3\, Episode 1
-UID:eda0b116-53fb-4649-976c-7ca526f9abeb
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Alexa Crowe\, a fearless private investigator\, puts on her de
  tective shoes to solve some of the most baffling crimes while dealing wit
  h the everyday problems of life.\n\nAlexa and Madison's investigations in
  to the death of a music producer is complicated by the arrival at Alexa's
   door of a young girl with some very big news.
 DTEND:20250216T190000Z
-DTSTAMP:20250215T050746Z
-DTSTART:20250216T175500Z
+DTSTAMP:20250216T050741Z
+DTSTART:20250216T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: My Life is Murder - Gaslight Sonata
-UID:37565e69-a653-4398-bded-ef3b699079e5
+UID:18f64ca2-251b-41d4-afb8-ac0a1aabec3e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Marie Antoinette leaves Austria to marry the Dauphin of France
@@ -64,31 +25,31 @@ DESCRIPTION:Marie Antoinette leaves Austria to marry the Dauphin of France
  arriage is Marie Antoinette's brother\, Joseph\, aiming to unite this est
  ranged couple. 6/8
 DTEND:20250216T200500Z
-DTSTAMP:20250215T050746Z
+DTSTAMP:20250216T050741Z
 DTSTART:20250216T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Marie Antoinette - Series 1\, Episode 6
-UID:de890673-244f-4839-b930-bc93e9fa0a19
+UID:fd4e04ef-bae4-448b-b2cd-7cd0e07b748f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Wicky heads to a crumbling\, stately home ruled by Mrs Barton\
  , its despotic housekeeper. 5/6
 DTEND:20250216T204000Z
-DTSTAMP:20250215T050746Z
+DTSTAMP:20250216T050741Z
 DTSTART:20250216T200500Z
 SEQUENCE:0
 SUMMARY:BBC First: The Cleaner - The House Keeper
-UID:f3ff8342-54fa-4337-bb1e-69fb9ac2aa10
+UID:0aa2e302-8d36-41d2-8716-26ce538d456c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Wicky is called to a wedding and meets Brummie kingpin Bob Mam
  mot\, the King of Storage. 6/6
 DTEND:20250216T211500Z
-DTSTAMP:20250215T050746Z
+DTSTAMP:20250216T050741Z
 DTSTART:20250216T204000Z
 SEQUENCE:0
 SUMMARY:BBC First: The Cleaner - The Wedding
-UID:c6d070cc-a37b-4af8-b29e-adfe5289bb18
+UID:d81f2ac6-58b3-41d0-ab42-0a74a1607a9a
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:This spin-off from Death in Paradise follows DI Humphrey Goodm
@@ -99,11 +60,11 @@ DESCRIPTION:This spin-off from Death in Paradise follows DI Humphrey Goodm
  rding school goes missing\, Humphrey's team explores a connection between
   his disappearance and an ancient local legend. 4/6
 DTEND:20250216T223000Z
-DTSTAMP:20250215T050746Z
+DTSTAMP:20250216T050741Z
 DTSTART:20250216T211500Z
 SEQUENCE:0
 SUMMARY:BBC First: Beyond Paradise - Series 2\, Episode 4
-UID:760a225e-bc1b-47a0-8e70-a5ebbd633040
+UID:5ff2522c-9780-4f97-a1a3-644dc3810d9f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
@@ -112,11 +73,11 @@ DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
   the Police Station. How did he get in there\, and how did the killer esc
  ape without using any of the locks? 8/8
 DTEND:20250217T190000Z
-DTSTAMP:20250215T050746Z
-DTSTART:20250217T175500Z
+DTSTAMP:20250216T050742Z
+DTSTART:20250217T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 8\, Episode 8
-UID:9108714e-e4aa-430a-9136-6af2902f2862
+UID:7a286954-dddf-4683-b1ec-14259756891d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -125,11 +86,11 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  urdoch and Watts investigate a murder on the Newsome estate which the res
  idents have declared to be an independent kingdom. 8/11
 DTEND:20250217T200000Z
-DTSTAMP:20250215T050746Z
+DTSTAMP:20250216T050742Z
 DTSTART:20250217T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - The Dominion of New South Mimico
-UID:be2cb7c0-f2f6-4bce-9e6f-9dad9128e869
+UID:fc2c8763-f950-45b3-8c8c-c242a91291ef
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
@@ -137,12 +98,12 @@ DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
  d of Saint-Marie in the Caribbean.\n\nThe team welcome a new recruit befo
  re they're faced with a cryptic case in which the victim leaves them a my
  sterious message. 1/8
-DTEND:20250217T212000Z
-DTSTAMP:20250215T050746Z
+DTEND:20250217T211000Z
+DTSTAMP:20250216T050742Z
 DTSTART:20250217T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 14\, Episode 1
-UID:d44cd96f-663f-4518-9d58-0f280a1a59b5
+UID:5611d128-c7e6-48b9-865a-fba67c08f828
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Professor Jasper Tempest\, a genius Cambridge University crimi
@@ -150,12 +111,12 @@ DESCRIPTION:Professor Jasper Tempest\, a genius Cambridge University crimi
  essor T struggles adjusting to a hostile new environment\, remand prison.
   While there\, he still manages to get involved with the case of the murd
  er of a car parts dealer. 1/6
-DTEND:20250217T222000Z
-DTSTAMP:20250215T050746Z
-DTSTART:20250217T212000Z
+DTEND:20250217T221000Z
+DTSTAMP:20250216T050742Z
+DTSTART:20250217T211000Z
 SEQUENCE:0
 SUMMARY:BBC First: Professor T - Heir to the Throne
-UID:38f65c09-a786-4c82-b79e-2a21912da630
+UID:2ea715d3-ffcd-41a6-8906-4ef8020821d2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
@@ -164,11 +125,11 @@ DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
  sted when they investigate the poisoning of a celebrated artist in her st
  udio\, in very puzzling circumstances. 2/8
 DTEND:20250218T190000Z
-DTSTAMP:20250215T050746Z
-DTSTART:20250218T175500Z
+DTSTAMP:20250216T050744Z
+DTSTART:20250218T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 9\, Episode 2
-UID:0c2141ba-a240-4121-afab-b805aa908ccd
+UID:86c524eb-1e78-40dd-9e51-066c593523f9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -177,11 +138,11 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  igating a fire in a pawnshop\, Murdoch discovers the dead proprietor and 
  believes a stolen shipment of opium might have led to the murder. 9/11
 DTEND:20250218T200000Z
-DTSTAMP:20250215T050746Z
+DTSTAMP:20250216T050744Z
 DTSTART:20250218T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - The .38 Murdoch Special
-UID:621a8857-cbae-4cba-8c3d-837bb9fc905d
+UID:e91edccc-c01b-4623-8481-154811f7d473
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Alexa Crowe\, a fearless private investigator\, puts on her de
@@ -189,12 +150,12 @@ DESCRIPTION:Alexa Crowe\, a fearless private investigator\, puts on her de
  h the everyday problems of life.\n\nWhen Alexa investigates the death of 
  a popular male nanny\, she discovers some pushy parents are more terrifyi
  ng than most killers Alexa has met before.
-DTEND:20250218T210000Z
-DTSTAMP:20250215T050746Z
+DTEND:20250218T205500Z
+DTSTAMP:20250216T050744Z
 DTSTART:20250218T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: My Life is Murder - Staying Mum
-UID:23caa419-540c-4792-8150-5ce5b241ce52
+UID:5efd8bc2-c751-46ab-aaf5-64654a3325e3
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Alexa Crowe\, a fearless private investigator\, puts on her de
@@ -202,12 +163,12 @@ DESCRIPTION:Alexa Crowe\, a fearless private investigator\, puts on her de
  h the everyday problems of life.\n\nThe case of a young model's death bac
  kstage at a show sees Alexa facing off with a former supermodel as she in
  vestigates some absolutely killer fashion.
-DTEND:20250218T215500Z
-DTSTAMP:20250215T050746Z
-DTSTART:20250218T210000Z
+DTEND:20250218T215000Z
+DTSTAMP:20250216T050744Z
+DTSTART:20250218T205500Z
 SEQUENCE:0
 SUMMARY:BBC First: My Life is Murder - Killer Fashion
-UID:07288569-cbc1-42da-b65f-0e854a860f7f
+UID:8dc6e07a-6e59-4747-a055-79fb92b44549
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Max Liebermann\, a student of Sigmund Freud\, helps Detective 
@@ -216,12 +177,12 @@ DESCRIPTION:Max Liebermann\, a student of Sigmund Freud\, helps Detective
  l finds a mutilated corpse in Vienna's slum quarter. The secret services 
  warn Oskar that the investigation is not the concern of the Leopoldstadt 
  police. 4/6
-DTEND:20250218T225500Z
-DTSTAMP:20250215T050746Z
-DTSTART:20250218T215500Z
+DTEND:20250218T224500Z
+DTSTAMP:20250216T050744Z
+DTSTART:20250218T215000Z
 SEQUENCE:0
 SUMMARY:BBC First: Vienna Blood - The Devil's Kiss\, part 2
-UID:0c0f061f-7dd6-4b95-8f3e-618e137f5f05
+UID:84a8bffd-3b3a-4523-88a6-0ac60b957280
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
@@ -230,11 +191,11 @@ DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
   whilst investigating the murder of a man found dead in a boat off the Sa
  int Marie coast. 4/8
 DTEND:20250219T190000Z
-DTSTAMP:20250215T050749Z
+DTSTAMP:20250216T050744Z
 DTSTART:20250219T175500Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 9\, Episode 4
-UID:c0610cdb-865d-48ad-b1d9-d21afeb2eccf
+UID:8dc3f676-8215-43e0-992a-cb76b21ec77d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -244,11 +205,11 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  e turns out to be his former lover\, who had spent years fleeing the Blac
  khand crime syndicate. 10/11
 DTEND:20250219T200000Z
-DTSTAMP:20250215T050749Z
+DTSTAMP:20250216T050744Z
 DTSTART:20250219T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - Everything is Broken: Part One
-UID:841071d3-102f-4aa2-8a4a-80f5ea921df1
+UID:8e3f0999-741b-44a4-b69d-7a38fa89639e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
@@ -257,11 +218,11 @@ DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
  e perplexed by the seemingly random killing of a stand-in on a film set a
  nd fear the murderer may strike again. 2/8
 DTEND:20250219T210000Z
-DTSTAMP:20250215T050749Z
+DTSTAMP:20250216T050744Z
 DTSTART:20250219T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 3\, Episode 2
-UID:8103ccfc-008c-4492-9bdf-d479804ce2f3
+UID:c17733ea-e283-4b5a-8d9d-a3fd7edcbc74
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The Brokenwood Mysteries is set in a seemingly quiet country t
@@ -271,11 +232,11 @@ DESCRIPTION:The Brokenwood Mysteries is set in a seemingly quiet country t
  old hospital wing strapped to a trolley with electrodes connected to his 
  temples. It would seem he was the victim of electrocution. 4/4
 DTEND:20250219T230000Z
-DTSTAMP:20250215T050749Z
+DTSTAMP:20250216T050744Z
 DTSTART:20250219T210000Z
 SEQUENCE:0
 SUMMARY:BBC First: The Brokenwood Mysteries - The Dark Angel
-UID:b07a3e92-731d-48f4-9447-8b1d66980116
+UID:e68cba6f-2578-442c-9024-f186e3dce650
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
@@ -284,11 +245,11 @@ DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
  s wrong when the leader\, a trained survival expert and ex-SAS soldier\, 
  is found dead in the forest of a remote island near Saint Marie. 6/8
 DTEND:20250220T190000Z
-DTSTAMP:20250215T050749Z
+DTSTAMP:20250216T050746Z
 DTSTART:20250220T175500Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 9\, Episode 6
-UID:f3b82010-bd05-45e4-9f07-1538a71b3008
+UID:afd52dd0-dcc9-4f34-915d-2e1186b706f2
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -298,11 +259,11 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  gden is stunned but eager to accept the boy out of love for Murdoch. 11/1
  1
 DTEND:20250220T200000Z
-DTSTAMP:20250215T050749Z
+DTSTAMP:20250216T050746Z
 DTSTART:20250220T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - Everything Is Broken: Part Two
-UID:e4bf1bcb-f96b-49bb-9e7c-b90c9a57fe00
+UID:62d25bb5-cbfc-4e48-8dd7-438fd7afea60
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Professor Jasper Tempest\, a genius Cambridge University crimi
@@ -311,11 +272,11 @@ DESCRIPTION:Professor Jasper Tempest\, a genius Cambridge University crimi
  pictures give the impression of perfect happiness. But the police and Pro
  fessor T suspect owls in the bog. 2/6
 DTEND:20250220T210000Z
-DTSTAMP:20250215T050749Z
+DTSTAMP:20250216T050746Z
 DTSTART:20250220T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: Professor T - The Perfect Picture
-UID:5b8cacf0-b9e0-460c-b8f7-7f6dd3838a88
+UID:4f6cdb9c-8514-4cdb-8847-e44dc21eed61
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Alexa Crowe\, a fearless private investigator\, puts on her de
@@ -323,12 +284,25 @@ DESCRIPTION:Alexa Crowe\, a fearless private investigator\, puts on her de
  h the everyday problems of life.\n\nWhen Alexa investigates the death of 
  a popular male nanny\, she discovers some pushy parents are more terrifyi
  ng than most killers Alexa has met before.
-DTEND:20250220T220500Z
-DTSTAMP:20250215T050749Z
+DTEND:20250220T215500Z
+DTSTAMP:20250216T050746Z
 DTSTART:20250220T210000Z
 SEQUENCE:0
 SUMMARY:BBC First: My Life is Murder - Staying Mum
-UID:83fc456b-51ad-4238-93d7-23fd229856cd
+UID:19f93417-bf02-4c23-b2f7-6ed80c59045d
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Alexa Crowe\, a fearless private investigator\, puts on her de
+ tective shoes to solve some of the most baffling crimes while dealing wit
+ h the everyday problems of life.\n\nThe case of a young model's death bac
+ kstage at a show sees Alexa facing off with a former supermodel as she in
+ vestigates some absolutely killer fashion.
+DTEND:20250220T225000Z
+DTSTAMP:20250216T050746Z
+DTSTART:20250220T215500Z
+SEQUENCE:0
+SUMMARY:BBC First: My Life is Murder - Killer Fashion
+UID:859d2f00-7ffa-43f4-b9d2-d1612d5ddfea
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
@@ -336,11 +310,11 @@ DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
  d of Saint-Marie in the Caribbean.\n\nA blind actress is the only witness
   to her husband's murder. But can she really be trusted? 8/8
 DTEND:20250221T190000Z
-DTSTAMP:20250215T050749Z
+DTSTAMP:20250216T050747Z
 DTSTART:20250221T175500Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 9\, Episode 8
-UID:94e7f3d0-57f0-459c-9cff-abe42ed9502a
+UID:1ba950f4-4b27-4fa4-988f-ae9a5a53a00e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -349,11 +323,11 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  ives in danger from the Black Hand gang\, Murdoch searches for Anna Fulfo
  rd and their son\, Harry\, in Montreal. 1/24
 DTEND:20250221T200000Z
-DTSTAMP:20250215T050749Z
+DTSTAMP:20250216T050747Z
 DTSTART:20250221T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - The Things We Do for Love - Part One
-UID:f2900e7e-dd2a-4328-9f66-7c4e671effea
+UID:3720ee1a-6c39-477f-a217-0368bfe227ea
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Former police detective Jack Grayling\, now pursuing his dream
@@ -363,11 +337,11 @@ DESCRIPTION:Former police detective Jack Grayling\, now pursuing his dream
   stakes poker tournament. When a top player is dealt a deadly hand\, Jack
   and Kate have no shortage of suspects... 5/8
 DTEND:20250221T205500Z
-DTSTAMP:20250215T050749Z
+DTSTAMP:20250216T050747Z
 DTSTART:20250221T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: The Good Ship Murder - At Sea
-UID:138a844e-5435-499c-a86f-6f24997cfdbe
+UID:cb3315f7-c53b-4952-8de1-c162a357b96c
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
@@ -376,11 +350,11 @@ DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
  re they're faced with a cryptic case in which the victim leaves them a my
  sterious message. 1/8
 DTEND:20250221T220500Z
-DTSTAMP:20250215T050749Z
+DTSTAMP:20250216T050747Z
 DTSTART:20250221T205500Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 14\, Episode 1
-UID:c7e6b574-0c50-4248-8c55-52f2dbedc5bd
+UID:94bbb4c6-5dae-43ff-883e-b55ae3a5f9f9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
@@ -389,11 +363,11 @@ DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
  re they're faced with a cryptic case in which the victim leaves them a my
  sterious message. 1/8
 DTEND:20250222T190000Z
-DTSTAMP:20250215T050749Z
+DTSTAMP:20250216T050749Z
 DTSTART:20250222T175000Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 14\, Episode 1
-UID:3639e47a-c796-4703-a855-dd1fccd0e8d5
+UID:7db56b9e-322c-472c-b76c-cb9c125b9ed6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The Brokenwood Mysteries is set in a seemingly quiet country t
@@ -402,11 +376,11 @@ DESCRIPTION:The Brokenwood Mysteries is set in a seemingly quiet country t
  to a world of Victorian dress-up and escapism when they investigate a mur
  der at the Brokenwood Steampunk event. 1/4
 DTEND:20250222T210000Z
-DTSTAMP:20250215T050749Z
+DTSTAMP:20250216T050749Z
 DTSTART:20250222T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: The Brokenwood Mysteries - The Power of Steam
-UID:fb907a73-0311-4094-95a3-786e2fb3440f
+UID:e3fb03bb-5126-4627-9242-e04807f11576
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:No-nonsense police sergeant Catherine Cawood leads a team of d
@@ -414,10 +388,82 @@ DESCRIPTION:No-nonsense police sergeant Catherine Cawood leads a team of d
  rine learns of a painful betrayal close to home\, and Faisal comes under 
  increasing pressure from all sides. 2/7
 DTEND:20250222T220000Z
-DTSTAMP:20250215T050749Z
+DTSTAMP:20250216T050749Z
 DTSTART:20250222T210000Z
 SEQUENCE:0
 SUMMARY:BBC First: Happy Valley - Series 3\, Episode 2
-UID:2b5a145e-4138-4ec7-b485-fc91fc8d1ae2
+UID:58ea3f77-7214-4094-b13c-80688ed4ef6e
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Alexa Crowe\, a fearless private investigator\, puts on her de
+ tective shoes to solve some of the most baffling crimes while dealing wit
+ h the everyday problems of life.\n\nThe case of a young model's death bac
+ kstage at a show sees Alexa facing off with a former supermodel as she in
+ vestigates some absolutely killer fashion.
+DTEND:20250223T190000Z
+DTSTAMP:20250216T050749Z
+DTSTART:20250223T180000Z
+SEQUENCE:0
+SUMMARY:BBC First: My Life is Murder - Killer Fashion
+UID:2d447160-9572-435d-9992-195b922f17ba
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Marie Antoinette leaves Austria to marry the Dauphin of France
+ . When she arrives at Versailles\, she must obey the numerous and complex
+  rules of the French court. The princess quickly suffers from not being a
+ ble to live her life the way she wants. However\, faced with Louis' avoid
+ ant and solitary character\, the mission turns out to be more complicated
+  than expected.\n\nMarie Antoinette is pregnant at last! But her reputati
+ on is soon attacked. 7/8
+DTEND:20250223T200000Z
+DTSTAMP:20250216T050749Z
+DTSTART:20250223T190000Z
+SEQUENCE:0
+SUMMARY:BBC First: Marie Antoinette - Series 1\, Episode 7
+UID:8cbb5967-8e51-4248-be84-8efc4fa51a17
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Hardacres is a rags to riches family saga following the li
+ ves\, loves and fortunes of the working class Hardacre family as they mov
+ e from a grimy fish dock to a vast country estate in 1890's Yorkshire. Af
+ ter an accident leaves the family unemployed and penniless\, the Hardacre
+ s come up with a radical business idea and soon they are rich beyond thei
+ r wildest dreams. Catapulted into the rarefied world of the upper classes
+ \, they are faced with snobbery from aristocrats and servants alike. The 
+ family must learn the hard way that real class isn't a birth-right\; it's
+  something they had all along...\n\nWhen adversity strikes\, the Hardacre
+  family must unite on a risky business venture. 1/6
+DTEND:20250223T210000Z
+DTSTAMP:20250216T050749Z
+DTSTART:20250223T200000Z
+SEQUENCE:0
+SUMMARY:BBC First: The Hardacres - Series 1\, Episode 1
+UID:53bfc40e-4598-4e9a-8fe9-e521f2ced6eb
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Bankrupt in the US\, Mia flees to London to keep up appearance
+ s but instead finds herself in limbo. A glimmer of hope arrives in a rare
+  modelling job\, but there's a sting in the tail. 1/6
+DTEND:20250223T213500Z
+DTSTAMP:20250216T050749Z
+DTSTART:20250223T210000Z
+SEQUENCE:0
+SUMMARY:BBC First: Spent - Series 1\, Episode 1
+UID:a551b39a-c38b-4bfd-bb2c-1392d537f487
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:This spin-off from Death in Paradise follows DI Humphrey Goodm
+ an and his fiancée\, Martha\, as they leave London to start a new life on
+  the Devon coast. Humphrey takes up the vacant position of Detective Insp
+ ector at Shipton Abbott police station\, a slightly antiquated outpost of
+  the Devon & Cornwall Police district.\n\nOn a moor outside of Shipton Ab
+ bott\, a woman is found with an arrow in her back and no sign of who migh
+ t have shot her. 5/6
+DTEND:20250223T224000Z
+DTSTAMP:20250216T050749Z
+DTSTART:20250223T213500Z
+SEQUENCE:0
+SUMMARY:BBC First: Beyond Paradise - Series 2\, Episode 5
+UID:1b9f0f3b-9da8-4ffe-a02d-ee752bdc8672
 END:VEVENT
 END:VCALENDAR
