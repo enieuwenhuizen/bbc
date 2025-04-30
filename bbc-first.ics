@@ -5,71 +5,16 @@ X-WR-CALNAME:BBC First TV Guide
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
  tish inspector who is assigned to investigate crime on the paradise islan
- d of Saint-Marie in the Caribbean.\n\nThe leader of a spiritual retreat i
- s found strangled and Jack and the team are confounded by the fact that a
- ll their suspects were in a meditation circle at the time of the murder. 
- 6/8
-DTEND:20250429T180000Z
-DTSTAMP:20250429T051008Z
-DTSTART:20250429T170000Z
-SEQUENCE:0
-SUMMARY:BBC First: Death in Paradise - Series 7\, Episode 6
-UID:e14bd529-b0f3-4fa0-ad93-6b4131debe8e
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
- team investigate the gruesome killings and murders using the most sophist
- icated techniques that were unheard of in the late 1890s.\n\nHaving resig
- ned from the constabulary\, Murdoch is hired to find a missing heiress. 2
- 4/24
-DTEND:20250429T190000Z
-DTSTAMP:20250429T051008Z
-DTSTART:20250429T180000Z
-SEQUENCE:0
-SUMMARY:BBC First: Murdoch Mysteries - The Long Goodbye\, Part Two
-UID:a91b2673-4354-463d-94f1-2c2448565ccd
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Judith\, Suzie and Becks start an investigation. To assist wit
- h official police investigation\, headed by Tanika\, They must suspect wi
- tnesses\, and face down real danger as they work against the clock to sto
- p the killer in their tracks.\n\nAs the motives stack up against suspects
-  Gregg and Harry\, Kit's killer sends another violent warning and Judith\
- , Becks and Suzie find themselves in a race against time to solve the cas
- e. 6/6
-DTEND:20250429T200000Z
-DTSTAMP:20250429T051008Z
-DTSTART:20250429T190000Z
-SEQUENCE:0
-SUMMARY:BBC First: The Marlow Murder Club - Series 2\, Episode 6
-UID:f3080ca5-5f24-445e-a1d4-8d1fa213fa5f
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Following the nurses\, midwives and nuns from Nonnatus House c
- onvent as they visit the expectant mothers of Poplar\; providing the poor
- est women with the best possible care.\n\nThe Sisters welcome new postula
- nt\, Sister Catherine\, to Nonnatus House\, whilst a bold intervention bo
- osts numbers for the measles vaccination clinic. 4/8
-DTEND:20250429T211000Z
-DTSTAMP:20250429T051008Z
-DTSTART:20250429T200000Z
-SEQUENCE:0
-SUMMARY:BBC First: Call the Midwife - Series 14\, Episode 4
-UID:0a2a2154-436a-4413-b351-7e85ddd5772c
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
- tish inspector who is assigned to investigate crime on the paradise islan
  d of Saint-Marie in the Caribbean.\n\nWhen the lead guitarist of a popula
  r reggae band is murdered\, Jack and his team must crack a cold case that
   has haunted the Commissioner for years before they can arrest the killer
  . 8/8
 DTEND:20250430T180000Z
-DTSTAMP:20250429T051008Z
+DTSTAMP:20250430T050959Z
 DTSTART:20250430T170000Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 7\, Episode 8
-UID:936c98f9-f737-4b74-aba4-cc580b9b0fad
+UID:a3923437-2cde-452d-8fa5-eaba2f80f502
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -78,11 +23,11 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  Ogden are abducted\, and newly appointed Inspector Crabtree's first order
   is finding them. 1/24
 DTEND:20250430T190000Z
-DTSTAMP:20250429T051008Z
+DTSTAMP:20250430T050959Z
 DTSTART:20250430T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - Do the Right Thing: Part 1
-UID:16cf22dd-4b0f-4131-89ee-36819b211d47
+UID:a9c65ee8-7bfb-4d42-b762-a0a410188d62
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Spiky detective Mackenzie Clarke\, the toast of London's Metro
@@ -92,11 +37,11 @@ DESCRIPTION:Spiky detective Mackenzie Clarke\, the toast of London's Metro
   the victim was killed when the suspects were chained together\, unable t
  o reach the victim. 4/6
 DTEND:20250430T201000Z
-DTSTAMP:20250429T051008Z
+DTSTAMP:20250430T050959Z
 DTSTART:20250430T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Return to Paradise - Killer Climate
-UID:6be0d5da-883b-4974-a5ec-15e3dcf202cf
+UID:fb5be2a3-8d75-4acb-9757-84c25d222ebb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The Brokenwood Mysteries is set in a seemingly quiet country t
@@ -105,11 +50,11 @@ DESCRIPTION:The Brokenwood Mysteries is set in a seemingly quiet country t
  Brokenwood on other police business\, Kristin is left to lead the investi
  gation into a 1970s party where several party-goers wind up dead. 6/6
 DTEND:20250430T220500Z
-DTSTAMP:20250429T051008Z
+DTSTAMP:20250430T050959Z
 DTSTART:20250430T201000Z
 SEQUENCE:0
 SUMMARY:BBC First: The Brokenwood Mysteries - Series 7\, Episode 6
-UID:89844712-f987-4164-9fba-1829d9a96687
+UID:b854195e-2a5d-47a2-a2a5-d527524b4ca8
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
@@ -119,11 +64,11 @@ DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
  ser dart in the middle of the zoo grounds\, leaving the family-run busine
  ss in turmoil. 2/8
 DTEND:20250501T180000Z
-DTSTAMP:20250429T051008Z
+DTSTAMP:20250430T050959Z
 DTSTART:20250501T170000Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 8\, Episode 2
-UID:7d633df5-0ee2-4ee9-9680-2ec095623ed0
+UID:4b79e5c6-3c83-4930-a61f-994bdbf2e6d5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -132,11 +77,11 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  bout exonerating a murderer to save their daughter\, Murdoch and Ogden ab
  duct the socialite to face justice. 2/24
 DTEND:20250501T190000Z
-DTSTAMP:20250429T051008Z
+DTSTAMP:20250430T050959Z
 DTSTART:20250501T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - Do the Right Thing: Part 2
-UID:d090c18a-5995-45e9-bf2e-ef21a235bfde
+UID:3d9895c3-5404-4dba-8ba9-d727184d5e54
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detectives uncover the mystery behind an unsolved murder - kno
@@ -144,11 +89,11 @@ DESCRIPTION:Detectives uncover the mystery behind an unsolved murder - kno
  g the truth about Gerard's death with Marty\, Miranda and Juliet still un
  der suspicion. 6/6
 DTEND:20250501T200000Z
-DTSTAMP:20250429T051008Z
+DTSTAMP:20250430T050959Z
 DTSTART:20250501T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Unforgotten - Series 6\, Episode 6
-UID:22de2a94-d7de-4670-b8d3-f41599378748
+UID:85bf1243-3dec-4094-b0b7-a24ef6717ba4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Judith\, Suzie and Becks start an investigation. To assist wit
@@ -159,11 +104,11 @@ DESCRIPTION:Judith\, Suzie and Becks start an investigation. To assist wit
  , Becks and Suzie find themselves in a race against time to solve the cas
  e. 6/6
 DTEND:20250501T210500Z
-DTSTAMP:20250429T051008Z
+DTSTAMP:20250430T050959Z
 DTSTART:20250501T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: The Marlow Murder Club - Series 2\, Episode 6
-UID:b827749e-e9e9-4ca3-9af4-2ce5554ae047
+UID:9ad554ea-4f12-4d48-bf52-a427f4524777
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
@@ -172,11 +117,11 @@ DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
   Benedict Dacre rules the roost at the Paradise Skies Coffee plantation -
   but all is not plain sailing. 4/8
 DTEND:20250502T180000Z
-DTSTAMP:20250429T051009Z
+DTSTAMP:20250430T050959Z
 DTSTART:20250502T170000Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 8\, Episode 4
-UID:1cafa166-c14d-42f4-a415-a93a2269fe0d
+UID:3c3d6012-7f67-4278-b72d-a8c274b3b4df
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -185,11 +130,11 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  pect in the theft of the Mona Lisa is murdered\, Murdoch's investigation 
  leads to artist Emily Carr. 3/24
 DTEND:20250502T190000Z
-DTSTAMP:20250429T051009Z
+DTSTAMP:20250430T050959Z
 DTSTART:20250502T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - Murdoch and the Mona Lisa
-UID:13b9b940-7689-4607-ba8b-b672dc54d61b
+UID:e548e731-7571-4217-975a-2b7ac73d6b70
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Two lone strangers trekking on the road - a retired Australian
@@ -199,11 +144,11 @@ DESCRIPTION:Two lone strangers trekking on the road - a retired Australian
  and resort\, but when a guest is kidnapped\, the sisters must work togeth
  er to find him. 3/6
 DTEND:20250502T195500Z
-DTSTAMP:20250429T051009Z
+DTSTAMP:20250430T050959Z
 DTSTART:20250502T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Darby and Joan - Series 2\, Episode 3
-UID:f8ca1e34-4b06-4b32-9a3f-390d71cba96f
+UID:530e2681-7c54-4a84-bc56-b265a7cdd6d7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:This spin-off from Death in Paradise follows DI Humphrey Goodm
@@ -215,11 +160,11 @@ DESCRIPTION:This spin-off from Death in Paradise follows DI Humphrey Goodm
  ns. With public panic spreading across Shipton Abbott\, the team must wor
  k swiftly. 3/6
 DTEND:20250502T210500Z
-DTSTAMP:20250429T051009Z
+DTSTAMP:20250430T050959Z
 DTSTART:20250502T195500Z
 SEQUENCE:0
 SUMMARY:BBC First: Beyond Paradise - Series 3\, Episode 3
-UID:e628e215-1c1b-4f69-bba0-e9c1129dd71b
+UID:f7006bc4-9123-4ed6-802a-34ee0f4a208e
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:This spin-off from Death in Paradise follows DI Humphrey Goodm
@@ -231,11 +176,11 @@ DESCRIPTION:This spin-off from Death in Paradise follows DI Humphrey Goodm
  ns. With public panic spreading across Shipton Abbott\, the team must wor
  k swiftly. 3/6
 DTEND:20250503T180000Z
-DTSTAMP:20250429T051009Z
+DTSTAMP:20250430T050959Z
 DTSTART:20250503T165000Z
 SEQUENCE:0
 SUMMARY:BBC First: Beyond Paradise - Series 3\, Episode 3
-UID:041a71aa-7dda-4ac7-a3b4-1161a5857fa7
+UID:89c9974f-69f2-4bcd-9b30-f8738ab8899b
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:The Brokenwood Mysteries is set in a seemingly quiet country t
@@ -244,11 +189,11 @@ DESCRIPTION:The Brokenwood Mysteries is set in a seemingly quiet country t
   a lesson in local history when the Brokenwood museum uncovers a dead bod
  y in the most unlikely of places. 1/6
 DTEND:20250503T200000Z
-DTSTAMP:20250429T051009Z
+DTSTAMP:20250430T050959Z
 DTSTART:20250503T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: The Brokenwood Mysteries - From the Cradle to the Grave
-UID:c22935d5-7cb4-4cd4-abe3-bb92f4962302
+UID:485a3661-28a7-4043-b031-6205047da917
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Professor Jasper Tempest\, a genius Cambridge University crimi
@@ -256,11 +201,11 @@ DESCRIPTION:Professor Jasper Tempest\, a genius Cambridge University crimi
  essor T befriends a vulnerable girl and is convinced she is the key witne
  ss to a murder. Dan and Lisa agree to go on a date. 5/6
 DTEND:20250503T210000Z
-DTSTAMP:20250429T051009Z
+DTSTAMP:20250430T050959Z
 DTSTART:20250503T200000Z
 SEQUENCE:0
 SUMMARY:BBC First: Professor T - Sophie Knows
-UID:bc9c9beb-0877-485b-bb71-686399246503
+UID:ffb62b47-a3dc-469e-b341-8a6b9c8af1e4
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Judith\, Suzie and Becks start an investigation. To assist wit
@@ -271,11 +216,11 @@ DESCRIPTION:Judith\, Suzie and Becks start an investigation. To assist wit
  , Becks and Suzie find themselves in a race against time to solve the cas
  e. 6/6
 DTEND:20250504T180000Z
-DTSTAMP:20250429T051009Z
+DTSTAMP:20250430T050959Z
 DTSTART:20250504T170000Z
 SEQUENCE:0
 SUMMARY:BBC First: The Marlow Murder Club - Series 2\, Episode 6
-UID:b05b49c3-d79c-4c46-9f9d-db394b3cd3ed
+UID:fa79adab-8603-4104-a7fb-462918fa9cf9
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Two lone strangers trekking on the road - a retired Australian
@@ -285,24 +230,24 @@ DESCRIPTION:Two lone strangers trekking on the road - a retired Australian
  and resort\, but when a guest is kidnapped\, the sisters must work togeth
  er to find him. 3/6
 DTEND:20250504T190000Z
-DTSTAMP:20250429T051009Z
+DTSTAMP:20250430T050959Z
 DTSTART:20250504T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: Darby and Joan - Series 2\, Episode 3
-UID:1f25b476-3a03-4d55-b7c2-adb7bf571c80
+UID:d21ac394-b2bf-473c-bbcf-8eacad14e95f
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Following the nurses\, midwives and nuns from Nonnatus House c
- onvent as they visit the expectant mothers of Poplar\; providing the poor
- est women with the best possible care.\n\nA solo delivery puts Sister Jul
- ienne's skills to the upmost test. The Nonnatus team oversee the care of 
- a man living inside an iron lung\, and Cyril returns from Jamaica. 5/8
+ onvent as they visit expectant mothers in Poplar\, providing the poorest 
+ women with the best possible care.\n\nA solo delivery puts Sister Julienn
+ e's skills to the upmost test. The Nonnatus team oversee the care of a ma
+ n living inside an iron lung\, and Cyril returns from Jamaica. 5/8
 DTEND:20250504T201000Z
-DTSTAMP:20250429T051009Z
+DTSTAMP:20250430T050959Z
 DTSTART:20250504T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Call the Midwife - Series 14\, Episode 5
-UID:0838f443-fbf8-4d8f-aa2f-705d91fdaac4
+UID:0dc722b8-dbdb-4e0e-9507-f34c581d54fd
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Linda is a 50-year-old\, menopausal\, woman with a husband and
@@ -315,11 +260,11 @@ DESCRIPTION:Linda is a 50-year-old\, menopausal\, woman with a husband and
  ader the women need? The Eel sisters are running out of eels and Linda su
  ggests a vegan mushroom alternative. 3/6
 DTEND:20250504T204000Z
-DTSTAMP:20250429T051009Z
+DTSTAMP:20250430T050959Z
 DTSTART:20250504T201000Z
 SEQUENCE:0
 SUMMARY:BBC First: The Change - Series 2\, Episode 3
-UID:acf6e6fe-0dc4-4d32-9c6d-250df1e2e2b0
+UID:6a2c2431-492f-42db-80cf-fe255aeb19a6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Linda is a 50-year-old\, menopausal\, woman with a husband and
@@ -332,11 +277,11 @@ DESCRIPTION:Linda is a 50-year-old\, menopausal\, woman with a husband and
   the women's demands and Linda's vegan mushroom eel recipe is trialled. 4
  /6
 DTEND:20250504T210500Z
-DTSTAMP:20250429T051009Z
+DTSTAMP:20250430T050959Z
 DTSTART:20250504T204000Z
 SEQUENCE:0
 SUMMARY:BBC First: The Change - Series 2\, Episode 4
-UID:d04625eb-b0c7-4d17-ade0-c73f7ec79b00
+UID:8af65a49-6854-4bfd-9f82-8203315e0290
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
@@ -345,11 +290,11 @@ DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
  art special\, the Honoré police team are left stunned by another murder w
  hich is connected to the Tiana case. 6/8
 DTEND:20250505T180000Z
-DTSTAMP:20250429T051009Z
+DTSTAMP:20250430T051000Z
 DTSTART:20250505T170000Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 8\, Episode 6
-UID:ba8f092d-2c2f-489d-aad8-423ef2781d22
+UID:b0e1a3bb-4ccd-4515-a1ed-71197522f9e6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -358,11 +303,11 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  ects the stabbing of a man at an oyster bar is linked to a former case in
  volving harlots sold into marriage. 4/24
 DTEND:20250505T190000Z
-DTSTAMP:20250429T051009Z
+DTSTAMP:20250430T051000Z
 DTSTART:20250505T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - Bottom of the Barrel
-UID:aa0cbd41-1923-48f7-bc9a-06348d7fbc90
+UID:f94f20cc-6a5e-4b86-9398-6bfaa80c1a1d
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:This spin-off from Death in Paradise follows DI Humphrey Goodm
@@ -374,11 +319,11 @@ DESCRIPTION:This spin-off from Death in Paradise follows DI Humphrey Goodm
  tampered smoothie is identified as the cause\, suspicion falls on Martha\
  , the smoothie maker. 4/6
 DTEND:20250505T200500Z
-DTSTAMP:20250429T051009Z
+DTSTAMP:20250430T051000Z
 DTSTART:20250505T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Beyond Paradise - Series 3\, Episode 4
-UID:9a5a6a0d-18b5-411a-9215-19e4fb643505
+UID:5f51344a-95b3-4ba7-8c7f-e5b53575e9c5
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detectives uncover the mystery behind an unsolved murder - kno
@@ -386,11 +331,11 @@ DESCRIPTION:Detectives uncover the mystery behind an unsolved murder - kno
  g the truth about Gerard's death with Marty\, Miranda and Juliet still un
  der suspicion. 6/6
 DTEND:20250505T210500Z
-DTSTAMP:20250429T051009Z
+DTSTAMP:20250430T051000Z
 DTSTART:20250505T200500Z
 SEQUENCE:0
 SUMMARY:BBC First: Unforgotten - Series 6\, Episode 6
-UID:cb9973db-6c65-4ef9-9440-6888aa10680b
+UID:c6472468-9a15-452c-9a9d-a4536e8c44cb
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
@@ -399,11 +344,11 @@ DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
   the Police Station. How did he get in there\, and how did the killer esc
  ape without using any of the locks? 8/8
 DTEND:20250506T180000Z
-DTSTAMP:20250429T051009Z
+DTSTAMP:20250430T051000Z
 DTSTART:20250506T170000Z
 SEQUENCE:0
 SUMMARY:BBC First: Death in Paradise - Series 8\, Episode 8
-UID:476dc1f5-577b-4600-b6e4-bff685ed11d0
+UID:d1c5b675-b1de-453e-ae49-9f4a3767d1e1
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
@@ -412,11 +357,11 @@ DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his
  are fulfilled\, but the fulfillment of wishes does not always bring a per
  son to a good state... 5/24
 DTEND:20250506T190000Z
-DTSTAMP:20250429T051009Z
+DTSTAMP:20250430T051000Z
 DTSTART:20250506T180000Z
 SEQUENCE:0
 SUMMARY:BBC First: Murdoch Mysteries - Station House of Horror
-UID:6ab4d7e5-dc19-4f21-aa7c-7938dfc8c77f
+UID:f4e6b424-8344-482b-af64-bcb466faeba7
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:A kindly but enigmatic cleric investigates and solves crimes u
@@ -425,23 +370,76 @@ DESCRIPTION:A kindly but enigmatic cleric investigates and solves crimes u
   investigates when a medieval murder is committed at a battle re-enactmen
  t. 1/10
 DTEND:20250506T195500Z
-DTSTAMP:20250429T051009Z
+DTSTAMP:20250430T051000Z
 DTSTART:20250506T190000Z
 SEQUENCE:0
 SUMMARY:BBC First: Father Brown - The Battle of Kembleford
-UID:4fdcb7e1-42af-4775-b208-c1dc3391f5d3
+UID:080aabe3-2d97-42e2-a089-2c3a614291e6
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Following the nurses\, midwives and nuns from Nonnatus House c
- onvent as they visit the expectant mothers of Poplar\; providing the poor
- est women with the best possible care.\n\nA solo delivery puts Sister Jul
- ienne's skills to the upmost test. The Nonnatus team oversee the care of 
- a man living inside an iron lung\, and Cyril returns from Jamaica. 5/8
+ onvent as they visit expectant mothers in Poplar\, providing the poorest 
+ women with the best possible care.\n\nA solo delivery puts Sister Julienn
+ e's skills to the upmost test. The Nonnatus team oversee the care of a ma
+ n living inside an iron lung\, and Cyril returns from Jamaica. 5/8
 DTEND:20250506T210500Z
-DTSTAMP:20250429T051009Z
+DTSTAMP:20250430T051000Z
 DTSTART:20250506T195500Z
 SEQUENCE:0
 SUMMARY:BBC First: Call the Midwife - Series 14\, Episode 5
-UID:725403e6-6fbc-436f-b427-175fe668df74
+UID:d3db0a20-d7c0-442b-b6e2-e1c4f48c8724
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Warm\, light-hearted and humorous detective series about a Bri
+ tish inspector who is assigned to investigate crime on the paradise islan
+ d of Saint-Marie in the Caribbean.\n\nThe Honoré police department are te
+ sted when they investigate the poisoning of a celebrated artist in her st
+ udio\, in very puzzling circumstances. 2/8
+DTEND:20250507T180000Z
+DTSTAMP:20250430T051000Z
+DTSTART:20250507T170000Z
+SEQUENCE:0
+SUMMARY:BBC First: Death in Paradise - Series 9\, Episode 2
+UID:5fc46228-3315-4081-aae9-592c43cc01dd
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Detective William Murdoch of the Toronto Constabulary and his 
+ team investigate the gruesome killings and murders using the most sophist
+ icated techniques that were unheard of in the late 1890s.\n\nWhen Julia O
+ gden visits a country health retreat with Effie\, she's sceptical yet int
+ rigued by its alternative practices and charismatic leader. 6/24
+DTEND:20250507T190000Z
+DTSTAMP:20250430T051000Z
+DTSTART:20250507T180000Z
+SEQUENCE:0
+SUMMARY:BBC First: Murdoch Mysteries - Dying to be Enlightened
+UID:6d04a872-d2c0-4e84-9b65-d756f272bf77
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Spiky detective Mackenzie Clarke\, the toast of London's Metro
+ politan Police\, is forced to return home to idyllic Australian beachside
+  town Dolphin Cove and soon encounters murder and mystery.\n\nA tense gam
+ e of lawn bowls turns to chaos when a player is killed on the green in br
+ oad daylight by an antique ornamental bushranger's gun. Is the ghost of B
+ ushranger Bill haunting Dolphin Cove? 5/6
+DTEND:20250507T201000Z
+DTSTAMP:20250430T051000Z
+DTSTART:20250507T190000Z
+SEQUENCE:0
+SUMMARY:BBC First: Return to Paradise - Dead Bowl
+UID:565d40c0-cc45-4d59-a1b5-a282545910ba
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:The Brokenwood Mysteries is set in a seemingly quiet country t
+ own where the town's newest resident\, Mike Shepherd\, finds that murder 
+ lurks in even the most homely location.\n\nMike Shepherd and the team get
+  a lesson in local history when the Brokenwood museum uncovers a dead bod
+ y in the most unlikely of places. 1/6
+DTEND:20250507T221000Z
+DTSTAMP:20250430T051000Z
+DTSTART:20250507T201000Z
+SEQUENCE:0
+SUMMARY:BBC First: The Brokenwood Mysteries - From the Cradle to the Grave
+UID:45010f30-2005-493e-8708-1346e54649ba
 END:VEVENT
 END:VCALENDAR
